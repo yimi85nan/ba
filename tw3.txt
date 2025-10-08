@@ -222,16 +222,6 @@ HUSTLER,http://23.237.100.82:8000/HUSTLER/index.m3u8
 hustlertv,https://live.iptvxxx.net/hustlertv.m3u8
 visit-x,https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 
-🇯🇵日本频道,#genre#
-EroLuxe  Japanese,http://cdntv.online/high/ynemik5cl9/1694.mpeg
-
-日本映画専門チャンネル,https://stream02.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-東映チャンネル,https://stream02.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d
-东映チャンネルhttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
-チャンネルNECO,https://stream02.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-动物世界,http://v2.catcast.tv/content/40546/index.m3u8
-Кино 18+ International,https://v2.catcast.tv/content/40381/index.m3u8
-INDIEFILM,http://suo.im/aD7Ry
 
 
 📀欧美直播,#genre# 
@@ -772,78 +762,9 @@ Adult TV (18+),http://rhsbjv7k.tvclub.xyz/iptv/TVGXTE68LZGQWS/31707/index.m3u8
 PlayBoyz TV HD,http://rhsbjv7k.tvclub.xyz/iptv/TVGXTE68LZGQWS/31709/index.m3u8
 Ню Арт HD (18+),http://rhsbjv7k.tvclub.xyz/iptv/TVGXTE68LZGQWS/31716/index.m3u8
 
-🇷🇺俄罗斯2,#genre#
-成人1126,http://cdntv.online/high/ynemik5cl9/1126.mpeg
-成人1127,http://cdntv.online/high/ynemik5cl9/1127.mpeg
-成人1128,http://cdntv.online/high/ynemik5cl9/1128.mpeg
-成人1129,http://cdntv.online/high/ynemik5cl9/1129.mpeg
-成人1130,http://cdntv.online/high/ynemik5cl9/1130.mpeg
-成人1131,http://cdntv.online/high/ynemik5cl9/1131.mpeg
-成人1132,http://cdntv.online/high/ynemik5cl9/1132.mpeg
-成人1133,http://cdntv.online/high/ynemik5cl9/1133.mpeg
-成人1134,http://cdntv.online/high/ynemik5cl9/1134.mpeg
-成人1135,http://cdntv.online/high/ynemik5cl9/1135.mpeg
-成人1269,http://cdntv.online/high/ynemik5cl9/1269.mpeg
-成人1424,http://cdntv.online/high/ynemik5cl9/1424.mpeg
-成人1544,http://cdntv.online/high/ynemik5cl9/1544.mpeg
 
 
 
-🇺🇦乌克兰,#genre#
-Шёлк,http://live.admuspeh.my/8129/index.m3u8?token=ojAvis3jNzswZE3x
-Brazzers TV,http://live.admuspeh.my/8131/index.m3u8?token=ojAvis3jNzswZE3x
-Brazzers TV Europe,http://live.admuspeh.my/8407/index.m3u8?token=ojAvis3jNzswZE3x
-Русская ночь,http://live.admuspeh.my/8191/index.m3u8?token=ojAvis3jNzswZE3x
-Playboy TV,http://live.admuspeh.my/8193/index.m3u8?token=ojAvis3jNzswZE3x
-Private TV,http://live.admuspeh.my/8203/index.m3u8?token=ojAvis3jNzswZE3x
-Penthouse Gold HD,http://live.admuspeh.my/8342/index.m3u8?token=ojAvis3jNzswZE3x
-Шалун,http://live.admuspeh.my/8343/index.m3u8?token=ojAvis3jNzswZE3x
-Blue Hustler,http://live.admuspeh.my/8405/index.m3u8?token=ojAvis3jNzswZE3x
-Vivid Red,http://live.admuspeh.my/8408/index.m3u8?token=ojAvis3jNzswZE3x
-Vivid Red HD,http://live.admuspeh.my/8374/index.m3u8?token=ojAvis3jNzswZE3x
-RED Lips HD,http://live.admuspeh.my/8030/index.m3u8?token=ojAvis3jNzswZE3x
-CineMan XXX FHD,http://live.admuspeh.my/8868/index.m3u8?token=ojAvis3jNzswZE3x
-CineMan XXX2 FHD,http://live.admuspeh.my/8869/index.m3u8?token=ojAvis3jNzswZE3x
-Barely Legal TV,http://live.admuspeh.my/8413/index.m3u8?token=ojAvis3jNzswZE3x
-Exxxotica,http://live.admuspeh.my/8414/index.m3u8?token=ojAvis3jNzswZE3x
-Eroxxx HD,http://live.admuspeh.my/8415/index.m3u8?token=ojAvis3jNzswZE3x
-Hustler TV,http://live.admuspeh.my/8128/index.m3u8?token=ojAvis3jNzswZE3x
-FrenchLover,http://live.admuspeh.my/8393/index.m3u8?token=ojAvis3jNzswZE3x
-Dorcel TV HD,http://ip1.orgip.net/701/video.m3u8?token=A3b61a999e
-Redlight HD,http://ip1.orgip.net/702/video.m3u8?token=A3b61a999e
-Hustler HD Europe,http://ip1.orgip.net/714/video.m3u8?token=A3b61a999e
-Vivid Red,http://ip1.orgip.net/709/video.m3u8?token=A3b61a999e
-Private TV,http://ip1.orgip.net/704/video.m3u8?token=A3b61a999e
-Brazzers TV Europe,http://ip1.orgip.net/705/video.m3u8?token=A3b61a999e
-CineMan ExExEx,http://ip1.orgip.net/706/video.m3u8?token=A3b61a999e
-CineMan ExExEx TWO,http://ip1.orgip.net/716/video.m3u8?token=A3b61a999e
-XXL,http://ip1.orgip.net/710/video.m3u8?token=A3b61a999e
-Penthouse Quickies HD,http://ip1.orgip.net/713/video.m3u8?token=A3b61a999e
-Penthouse Gold HD,http://ip1.orgip.net/707/video.m3u8?token=A3b61a999e
-XXX 708,http://ip1.orgip.net/708/video.m3u8?token=A3b61a999e
-XXX 712,http://ip1.orgip.net/712/video.m3u8?token=A3b61a999e
-XXX 715,http://ip1.orgip.net/715/video.m3u8?token=A3b61a999e
-Barely legal,http://ip1.orgip.net/711/video.m3u8?token=A3b61a999e
-Blue Hustler,http://ip1.orgip.net/703/video.m3u8?token=A3b61a999e
-Шёлк,http://live.admuspeh.my/8129/index.m3u8?token=4gPHp5ZVYqDAR4oz
-Brazzers TV,http://live.admuspeh.my/8131/index.m3u8?token=4gPHp5ZVYqDAR4oz
-Brazzers TV Europe,http://live.admuspeh.my/8407/index.m3u8?token=4gPHp5ZVYqDAR4oz
-Русская ночь,http://live.admuspeh.my/8191/index.m3u8?token=4gPHp5ZVYqDAR4oz
-Playboy TV,http://live.admuspeh.my/8193/index.m3u8?token=4gPHp5ZVYqDAR4oz
-Private TV,http://live.admuspeh.my/8203/index.m3u8?token=4gPHp5ZVYqDAR4oz
-Penthouse Gold HD,http://live.admuspeh.my/8342/index.m3u8?token=4gPHp5ZVYqDAR4oz
-Шалун,http://live.admuspeh.my/8343/index.m3u8?token=4gPHp5ZVYqDAR4oz
-Blue Hustler,http://live.admuspeh.my/8405/index.m3u8?token=4gPHp5ZVYqDAR4oz
-Vivid Red,http://live.admuspeh.my/8408/index.m3u8?token=4gPHp5ZVYqDAR4oz
-Vivid Red HD,http://live.admuspeh.my/8374/index.m3u8?token=4gPHp5ZVYqDAR4oz
-RED Lips HD,http://live.admuspeh.my/8030/index.m3u8?token=4gPHp5ZVYqDAR4oz
-Barely Legal TV,http://live.admuspeh.my/8413/index.m3u8?token=4gPHp5ZVYqDAR4oz
-Exxxotica,http://live.admuspeh.my/8414/index.m3u8?token=4gPHp5ZVYqDAR4oz
-Eroxxx HD,http://live.admuspeh.my/8415/index.m3u8?token=4gPHp5ZVYqDAR4oz
-Hustler TV,http://live.admuspeh.my/8128/index.m3u8?token=4gPHp5ZVYqDAR4oz
-FrenchLover,http://live.admuspeh.my/8393/index.m3u8?token=4gPHp5ZVYqDAR4oz
-CineMan XXX FHD,http://live.admuspeh.my/8868/index.m3u8?token=4gPHp5ZVYqDAR4oz
-CineMan XXX2 FHD,http://live.admuspeh.my/8869/index.m3u8?token=4gPHp5ZVYqDAR4o
 盲盒系列,#genre#
 盲盒（第二十五期）,https://djfdsu.hhphxz.com/20230126/AVB9g5df/index.m3u8
 盲盒（第二十六期）,https://djfdsu.hhphxz.com/20230206/ngMpWK8u/index.m3u8
@@ -1384,6 +1305,7 @@ JK女高中生和老师的故事,https://djfdsu.hhphxz.com/20230928/g7713hfb/ind
 国产10传媒24,https://zo3921.cdnedge.live/file/avple-asserts/hls/634c1a7c5c062344b76024c0/playlist.m3u8
 国产10传媒25,https://8bb881.cdnedge.live/file/avple-asserts/hls/634bfbc7054a773d29ec1e1f/playlist.m3u8
 国产10传媒26,https://d862cp1.cdnedge.live/file/avple-asserts/hls/634be2ed5c062344b76024be/playlist.m3u8
+
 
 
 
