@@ -1,0 +1,1677 @@
+﻿🕘️台湾源,#genre#
+凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
+凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
+TVB翡翠(新加坡),http://stream-ali1.csslcloud.net/live/bNUJfDlj5xtSJFSf660kDlGGlm43aNX0tUks0kHM00gDkHukNW.flv
+TVB翡翠(马来),http://stream-ali1.csslcloud.net/live/QbsxHsZLNj2ktYGlm43ZTZUHJTlZVjSZpxY5sl6vOrZ3E7ZGep.flv 
+翡翠台,http://t.061899.xyz/tl/js/js.php?id=tvbfct
+无线新闻,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
+明珠台,http://t.061899.xyz/tl/js/js.php?id=tvbmzt
+娱乐新闻,http://stream-ali1.csslcloud.net/live/SE7CQoYzqeFgE2XWIdGn5xhydKz9KCZQE8eqDZKvGlm430LemY.flv
+
+凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
+凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
+凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
+
+凤凰中文,http://j.s.bkpcp.top/js/fhzw
+凤凰资讯,http://j.s.bkpcp.top/js/fhzx
+凤凰香港,http://j.s.bkpcp.top/js/fhxg
+
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://r.jdshipin.com/yDoTN
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/qrfbg
+无线新闻,http://r.jdshipin.com/CkuBd
+明珠台,http://r.jdshipin.com/ZQ4kN
+TVB Plus,http://r.jdshipin.com/ndGgS
+TVB Plus,http://r.jdshipin.com/Nr5jq
+TVB星河,http://r.jdshipin.com/Voac4
+TVB星河,http://r.jdshipin.com/sXuuD
+华丽翡翠台,http://r.jdshipin.com/thuYX
+ViuTV,http://r.jdshipin.com/vSJvl
+澳视澳门,http://r.jdshipin.com/n2YZI
+
+美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
+RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+
+明珠台,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
+明珠台,http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
+翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
+翡翠台,http://api.mg.itv888.cn:8080/hls/ac8b06eb0c8/index.m3u8
+无线新闻,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
+TVB Plus,http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
+凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
+凤凰中文,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
+凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
+HOY资讯台,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
+RTHK31,http://api.mg.itv888.cn:8080/hls/7f79a251429/index.m3u8
+RTHK32,http://api.mg.itv888.cn:8080/hls/18c550eab1e/index.m3u8
+ViuTV,http://api.mg.itv888.cn:8080/hls/13d52dc29d5/index.m3u8
+ViuTV6,http://api.mg.itv888.cn:8080/hls/0408f039a12/index.m3u8
+凤凰资讯,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信酒店
+凤凰中文,http://220.169.109.72:802/udp/239.76.253.135:9000$湖南/怀化/电信
+凤凰资讯,http://220.169.109.72:802/udp/239.76.253.134:9000$湖南/怀化/电信
+凤凰中文,http://123.174.106.183:8888/udp/239.1.1.126:8126$山西电信
+凤凰资讯,http://123.174.106.183:8888/udp/239.1.1.127:8127$山西电信
+凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass$
+襄阳联通
+凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass$襄阳联通
+
+
+TVB星河,http://117.141.162.238:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0$广西联通
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
+HOY 资讯,http://tv543.cc/Smart.php?id=hoycaijing_twn
+RTHK 31,http://cdn.163189.xyz/163189/rthk31
+RTHK 32,http://cdn.163189.xyz/163189/rthk32
+RTHK 33,https://cdn6.101.qzz.io/163189/cctv1
+凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8$官网
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$官网
+环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
+香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8$官网
+
+
+澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
+澳视葡文,http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
+澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
+澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
+澳视综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
+澳门Macau,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+
+马来西亚|Sony HD,https://tv543.cc/Smart.php?id=SetOne
+马来西亚|TvN,https://tv543.cc/Smart.php?id=TVN
+马来西亚|AEC,https://tv543.cc/Smart.php?id=AEC
+马来西亚|华丽台 HD （Wah Lai Toi）,https://tv543.cc/Smart.php?id=Wlt
+马来西亚|欢喜台 HD （Hua Hee Tai）,https://tv543.cc/Smart.php?id=Huahee
+马来西亚|Astro QJ,https://tv543.cc/Smart.php?id=Quanjia
+马来西亚|TVB Jade,https://tv543.cc/Smart.php?id=Tvbjade
+马来西亚|TVB Asia,https://tv543.cc/Smart.php?id=Tvbasia
+马来西亚|TVB Entertainment,https://tv543.cc/Smart.php?id=Tvbentertainment
+马来西亚|TVB Classic,https://tv543.cc/Smart.php?id=Tvbclassic
+马来西亚|TVB 星河台 Xing He,https://tv543.cc/Smart.php?id=Xinhe
+马来西亚|爱奇艺 iQiyi,https://tv543.cc/Smart.php?id=Qiyi
+马来西亚|Goshop,https://tv543.cc/Smart.php?id=Goshop
+马来西亚|Celestial Movies HD,https://tv543.cc/Smart.php?id=Celestial
+
+
+
+
+台湾,#genre#
+https://i.uik.cc/view.php/f8576ff37fa8b87696b6a0db283fd201.mp4
+TVBS新闻,http://stream-ali1.csslcloud.net/live/AocNA7nvWaoTEOU1kWJnR67lprbfd2y0CHqgjYOaOYV5JSmoP2.flv
+TVBSNew,http://stream-ali1.csslcloud.net/live/mFnbfd2y3Lo4g1Pt35lhMhdcsX9bi31YUL3qEyco7R2En3zrSk.flv
+LIVE三立,http://stream-ali1.csslcloud.net/live/GDGMQBLKWMPhyKJYSPPR6dnb2lS3FvykpFuj8AZf19Mbfd2yjx.flv
+三立iNEWS,http://stream-ali1.csslcloud.net/live/s1MnZyvakgihRsIVdMDeWvkbf3Da2Krbfd2yT1fV3lo74wZSW0.flv
+中视新闻,http://stream-ali1.csslcloud.net/live/hNsy4N2Ykbfd2ywCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
+台视新闻,http://stream-ali1.csslcloud.net/live/ofFqVir8hEYxZDb6y677FJxn0xrbfd2yPfOT6XuHngNXajvBUY.flv
+中天新闻,http://stream-ali1.csslcloud.net/live/ogVoQHdbfd2ydsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
+东森新闻,http://stream-ali1.csslcloud.net/live/IfhEdN30gjBbSbfd2ySSKGFHHl6JFBwhgtYpQxoGIKytCfl1hl.flv
+东森新闻(美),http://stream-ali1.csslcloud.net/live/Q6dIFsHxR2r9pqtq3qj8UT4oiUNO4ShbiuR7tArX4srbittNex.flv
+寰宇新闻,http://stream-ali1.csslcloud.net/live/3cDvCNnbfd2yBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
+寰宇新闻台湾,http://stream-ali1.csslcloud.net/live/kPx2bfd2y6L0ZwU3ASjlguHsNdwwRnvIENF5nNnrXPp4hNwoIi.flv
+民视新闻,http://stream-ali1.csslcloud.net/live/5CkUiYhpTaUWibfd2yVPulg2rBioJ6XgbbmxF2hWNQyygV2U12.flv
+公视新闻,http://stream-ali1.csslcloud.net/live/Ubmbfd2yeiurTa7IAZwc9yg3WHBILRp5ueNjYcnKl8MRCOrVoC.flv
+华视新闻,http://stream-ali1.csslcloud.net/live/AzACuucKCaz8bfd2yxWeXFD8Mjjpf4AcLtEPKWdD9rvwlDDE5s.flv
+年代新闻,http://stream-ali1.csslcloud.net/live/ruqTd9DCQm8ZG3MvLBN6uqJ6DB6owtf4srbivitv9fNrV82Z1V.flv
+非凡新闻,http://stream-ali1.csslcloud.net/live/7J22AJV6h8f24jkmoa5ahSzuCYjE5fVpCYYMEt9bfd2yHn4XG7.flv
+镜新闻,http://stream-ali1.csslcloud.net/live/4ef3bV1oG7KBJy3bfd2ybfSDto8eDzUvR0mWv5oKB6nemLkT4c.flv
+中天CTI+,http://stream-ali1.csslcloud.net/live/bfd2yczrTFqK7nEAJybacKGcrnLdslNp5YcphockmQnscq2S1p.flv
+民视,http://stream-ali1.csslcloud.net/live/ERadomiHh4srbiVLuQH0M1KoLqTYrGUZBRAAxPowEwb8JN2Yf0.flv
+中视,http://stream-ali1.csslcloud.net/live/ShLJKgSj71R4wf0v8TfYoSUE68hUT0uREP4srbiGe0pgDFxpIw.flv
+华视,http://stream-ali1.csslcloud.net/live/pI4srbi6geqWLAzPjvY5TD8d8eGRkdFBAZn8IfdKPAA57savCh.flv
+公视,http://stream-ali1.csslcloud.net/live/laQyY4srbiNEOiwM1uacLEYJs0zLZR34rbw69ivdrfQqrDqndY.flv
+flv
+台视,http://stream-ali1.csslcloud.net/live/pUYRwiaacRh4uyd74srbiOPIPg4zbh5a9Pf7IFqlGzjcIPsKG9.flv
+中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
+TVBS HD,http://stream-ali1.csslcloud.net/live/XhyG6NWlXFUuLxA75JShFUJC6ZK7Wl7b9ohSUJ8ZFuo4srbiMv.flv 
+TVBS欢乐,http://stream-ali1.csslcloud.net/live/FaZ3V4srbiKU2bz3b7Iy6f4evzUPNgMY6vKKkn7McVbTD5AXZW.flv
+TVBS亚洲,http://stream-ali1.csslcloud.net/live/mL1ArDDl4Wlhsdv2vApi0OyUYRtdBJ4srbiEYlEoAcwIN0c4bX.flv
+TVBS
+精采,http://applivewatermark.imfc.cn/live/96e1166b3acfd60e13a44379c1bdffb1.flv
+TVBS综艺,http://stream-ali1.csslcloud.net/live/A3NYezRcJMFiHfNU7m2qoJGo9QeaLF92qXfh4ZG74srbie5gXW.flv 
+TVBS台剧,http://stream-ali1.csslcloud.net/live/DMBDr5IM14srbiYTrRtv2GOHF7WpbaYWfblCoaPKBCnroeRU1I.flv中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+台视,rtmp://f13h.mine.nu/sat/tv071
+民视,rtmp://f13h.mine.nu/sat/tv051
+动物星球,http://stream-ali1.csslcloud.net/live/g46UG6stseWUHmKG9Abi152mY9av9qxVJZYp79cmVD2E4glTg3.flv 
+BBC_Earth,http://stream-ali1.csslcloud.net/live/RTGbfYkvdn3MPIj79qxVJP7g3bETISm6Z4De6iN8TJ9RRTVHjV.flv
+
+龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+动物星球,,https://tv543.cc/Smart.php?id=animalplanet_twn
+Discovery Asia,https://tv543.cc/Smart.php?id=discoverytwn_twn
+BBC_Earth,https://tv543.cc/Smart.php?id=bbcearth_twn
+NatGeo Wild HD,https://tv543.cc/Smart.php?id=Natgeowild
+纪录频道|CI,https://tv543.cc/Smart.php?id=ci_twn
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+东森超视,rtmp://f13h.mine.nu:1935:1935/sat/tv331
+非凡新闻,rtmp://f13h.mine.nu:1935/sat/tv581
+华视,rtmp://f13h.mine.nu:1935/sat/tv111
+民视,rtmp://f13h.mine.nu:1935/sat/tv051
+台视,rtmp://f13h.mine.nu:1935/sat/tv071
+纬来日本,rtmp://f13h.mine.nu:1935/sat/tv771
+中视,rtmp://f13h.mine.nu:1935/sat/tv091
+DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
+DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
+momoTV,rtmp://f13h.mine.nu/sat/tv761
+
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+唯心电视,https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8 
+GOOD  TV,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+GOOD2 TV,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+
+🇻🇳越南,#genre#
+Arirang,http://42.117.12.25:1111/udp/225.1.1.201:30120
+Asian Food Channel HD,http://42.117.12.25:1111/udp/225.1.1.198:30120
+Australia Plus,http://42.117.12.25:1111/udp/225.1.2.21:30120
+AXN,http://42.117.12.25:1111/udp/225.1.1.237:30120
+AXN HD,http://42.117.12.25:1111/udp/225.1.2.224:30120
+AXN HD,http://42.117.12.25:1111/udp/225.1.2.225:30120
+BBC Earth,http://42.117.12.25:1111/udp/225.1.2.24:30120
+BBC World News,http://42.117.12.25:1111/udp/225.1.2.74:30120
+Cartoon Network,http://42.117.12.25:1111/udp/225.1.1.240:30120
+Cartoon Network HD,http://42.117.12.25:1111/udp/225.1.2.230:30120
+Channel News Asia,http://42.117.12.25:1111/udp/225.1.1.202:30120
+Channel [V],http://42.117.12.25:1111/udp/225.1.1.243:30120
+Channel [V] HD,http://42.117.12.25:1111/udp/225.1.1.187:30120
+Channel [V] HD,http://42.117.12.25:1111/udp/225.1.1.188:30120
+CNBC,http://42.117.12.25:1111/udp/225.1.1.227:30120
+CNN,http://42.117.12.25:1111/udp/225.1.1.242:30120
+The Mira Hotel,http://42.117.12.25:1111/udp/225.1.1.123:30120
+FPT Mở Két,http://42.117.12.25:1111/udp/225.1.1.97:30120
+FPT PIP 2,http://42.117.12.25:1111/udp/225.1.2.49:30120
+FPT PIP 3,http://42.117.12.25:1111/udp/225.1.2.72:30120
+Ca Nhạc,http://42.117.12.25:1111/udp/225.1.1.9:30120
+Ca Nhạc 2,http://42.117.12.25:1111/udp/225.1.1.8:30120
+FPT thử nghiệm 4K,http://42.117.12.25:1111/udp/225.1.2.2:30120
+K+NS HD,http://42.117.12.25:1111/udp/225.1.1.80:30120
+K+PM HD,http://42.117.12.25:1111/udp/225.1.1.73:30120
+K+PM HD,http://42.117.12.25:1111/udp/225.1.1.81:30120
+K+PC HD,http://42.117.12.25:1111/udp/225.1.1.77:30120
+K+PC HD,http://42.117.12.25:1111/udp/225.1.1.82:30120
+VTV1 HD,http://42.117.12.25:1111/udp/225.1.2.249:30120
+VTV3,http://42.117.12.25:1111/udp/225.1.2.167:30120
+VTV3 HD,http://42.117.12.25:1111/udp/225.1.2.246:30120
+VTV3 HD,http://42.117.12.25:1111/udp/225.1.2.247:30120
+VTV4,http://42.117.12.25:1111/udp/225.1.1.248:30120
+VTV4 HD,http://42.117.12.25:1111/udp/225.1.2.20:30120
+VTV5 HD,http://42.117.12.25:1111/udp/225.1.1.131:30120
+VTV6,http://42.117.12.25:1111/udp/225.1.1.246:30120
+VTV6 HD,http://42.117.12.25:1111/udp/225.1.2.244:30120
+VTV6 HD,http://42.117.12.25:1111/udp/225.1.2.245:30120
+VTV7 HD,http://42.117.12.25:1111/udp/225.1.2.96:30120
+VTV7 HD,http://42.117.12.25:1111/udp/225.1.2.97:30120
+VTV9,http://42.117.12.25:1111/udp/225.1.1.153:30120
+VTV9 HD,http://42.117.12.25:1111/udp/225.1.1.126:30120
+VTV9 HD,http://42.117.12.25:1111/udp/225.1.1.128:30120
+VTVCab1 - Giải Trí TV,http://42.117.12.25:1111/udp/225.1.2.150:30120
+VTVCab2 - Phim Việt,http://42.117.12.25:1111/udp/225.1.2.159:30120
+VTVCab3 - Thể Thao TV HD,http://42.117.12.25:1111/udp/225.1.2.240:30120
+VTVCab3 - Thể Thao TV HD,http://42.117.12.25:1111/udp/225.1.2.241:30120
+VTVCab4 - Văn Hóa,http://42.117.12.25:1111/udp/225.1.2.153:30120
+VTVCab7 - D Dramas,http://42.117.12.25:1111/udp/225.1.2.157:30120
+VTVCab8 - Bibi,http://42.117.12.25:1111/udp/225.1.2.161:30120
+VTVCab9 - Info TV,http://42.117.12.25:1111/udp/225.1.2.154:30120
+VTVCab10 - O2TV,http://42.117.12.25:1111/udp/225.1.2.152:30120
+VTVCab11 - VGS Shop,http://42.117.12.25:1111/udp/225.1.1.252:30120
+VTVCab14 - Lotte Datviet Homeshopping,http://42.117.12.25:1111/udp/225.1.1.253:30120
+VTVCab15 - M Channel,http://42.117.12.25:1111/udp/225.1.1.251:30120
+VTVCab16 - Bóng Đá TV HD,http://42.117.12.25:1111/udp/225.1.2.242:30120
+VTVCab16 - Bóng Đá TV HD,http://42.117.12.25:1111/udp/225.1.2.243:30120
+VTVCab17 - Yeah1 !TV,http://42.117.12.25:1111/udp/225.1.2.151:30120
+VTVCab19 - Film TV,http://42.117.12.25:1111/udp/225.1.2.207:30120
+VTVCab21 - SaoTV Bibi+ HD,http://42.117.12.25:1111/udp/225.1.2.103:30120
+VOV,http://42.117.12.25:1111/udp/225.1.2.171:30120
+Thông Tấn Xã Việt Nam HD,http://42.117.12.25:1111/udp/225.1.1.43:30120
+An Ninh TV HD,http://42.117.12.25:1111/udp/225.1.2.169:30120
+An Ninh Thế Giới HD,http://42.117.12.25:1111/udp/225.1.1.208:30120
+Nhân Dân HD,http://42.117.12.25:1111/udp/225.1.1.91:30120
+Quốc Hội HD,http://42.117.12.25:1111/udp/225.1.2.148:30120
+Quốc Hội HD,http://42.117.12.25:1111/udp/225.1.2.149:30120
+Quốc Phòng Việt Nam HD,http://42.117.12.25:1111/udp/225.1.2.216:30120
+Quốc Phòng Việt Nam HD,http://42.117.12.25:1111/udp/225.1.2.217:30120
+HTV1,http://42.117.12.25:1111/udp/225.1.1.1:30120
+HTV2,http://42.117.12.25:1111/udp/225.1.1.179:30120
+HTV2 HD,http://42.117.12.25:1111/udp/225.1.1.193:30120
+HTV3,http://42.117.12.25:1111/udp/225.1.1.178:30120
+HTV4,http://42.117.12.25:1111/udp/225.1.1.177:30120
+HTV7,http://42.117.12.25:1111/udp/225.1.1.176:30120
+HTV7 HD,http://42.117.12.25:1111/udp/225.1.1.192:30120
+HTV9,http://42.117.12.25:1111/udp/225.1.1.175:30120
+HTV9 HD,http://42.117.12.25:1111/udp/225.1.1.189:30120
+HTV9 HD,http://42.117.12.25:1111/udp/225.1.1.190:30120
+HTV Thể Thao,http://42.117.12.25:1111/udp/225.1.1.165:30120
+HTVC Du Lịch và Cuộc Sống,http://42.117.12.25:1111/udp/225.1.1.166:30120
+HTVC FBNC,http://42.117.12.25:1111/udp/225.1.1.169:30120
+HTVC Gia Đình,http://42.117.12.25:1111/udp/225.1.1.170:30120
+HTVC Phim - Paramount Channel,http://42.117.12.25:1111/udp/225.1.1.173:30120
+HTVC Phim - Paramount Channel HD,http://42.117.12.25:1111/udp/225.1.1.183:30120
+HTVC Phim - Paramount Channel HD,http://42.117.12.25:1111/udp/225.1.1.184:30120
+HTVC Phụ Nữ,http://42.117.12.25:1111/udp/225.1.1.171:30120
+HTVC Shopping - VGS Shop,http://42.117.12.25:1111/udp/225.1.1.172:30120
+HTVC Thuần Việt,http://42.117.12.25:1111/udp/225.1.1.174:30120
+VTC1,http://42.117.12.25:1111/udp/225.1.2.203:30120
+VTC1 HD,http://42.117.12.25:1111/udp/225.1.2.254:30120
+#Kênh2,http://42.117.12.25:1111/udp/225.1.2.202:30120
+VTC3,http://42.117.12.25:1111/udp/225.1.2.201:30120
+VTC3 HD,http://42.117.12.25:1111/udp/225.1.2.251:30120
+Yeah1 !Family - VTC4 HD,http://42.117.12.25:1111/udp/225.1.2.200:30120
+tvBlue - VTC5,http://42.117.12.25:1111/udp/225.1.2.199:30120
+VTC6,http://42.117.12.25:1111/udp/225.1.2.198:30120
+Today TV - VTC7,http://42.117.12.25:1111/udp/225.1.2.197:30120
+Nét Việt - VTC10,http://42.117.12.25:1111/udp/225.1.2.194:30120
+Kids & Family TV - VTC11,http://42.117.12.25:1111/udp/225.1.2.193:30120
+VTC12,http://42.117.12.25:1111/udp/225.1.2.192:30120
+VTC13,http://42.117.12.25:1111/udp/225.1.2.189:30120
+3NTV - VTC16,http://42.117.12.25:1111/udp/225.1.2.190:30120
+SaoNamShopping-SCTV10,http://42.117.12.25:1111/udp/225.1.2.205:30120
+NCM - BTV10,http://42.117.12.25:1111/udp/225.1.1.225:30120
+SAM - BTV11,http://42.117.12.25:1111/udp/225.1.1.224:30120
+Phim Hay,http://42.117.12.25:1111/udp/225.1.1.222:30120
+Miền Tây - THDT2,http://42.117.12.25:1111/udp/225.1.1.221:30120
+Hà Nội 1 HD,http://42.117.12.25:1111/udp/225.1.2.186:30120
+Hà Nội 2 HD,http://42.117.12.25:1111/udp/225.1.1.125:30120
+HiTV - Hanoicab1,http://42.117.12.25:1111/udp/225.1.1.209:30120
+You!TV - Hanoicab2,http://42.117.12.25:1111/udp/225.1.1.207:30120
+Việt Nam Nét,http://42.117.12.25:1111/udp/225.1.1.194:30120
+An Giang 1,http://42.117.12.25:1111/udp/225.1.2.173:30120
+Bà Rịa Vũng Tàu,http://42.117.12.25:1111/udp/225.1.2.175:30120
+Bạc Liêu,http://42.117.12.25:1111/udp/225.1.1.61:30120
+Bắc Giang,http://42.117.12.25:1111/udp/225.1.1.164:30120
+Bắc Ninh,http://42.117.12.25:1111/udp/225.1.1.40:30120
+Bến Tre,http://42.117.12.25:1111/udp/225.1.1.156:30120
+Bình Dương 2 HD,http://42.117.12.25:1111/udp/225.1.1.149:30120
+iMOVIE TV HD - BTV4 HD,http://42.117.12.25:1111/udp/225.1.1.29:30120
+iMOVIE TV HD - BTV4 HD,http://42.117.12.25:1111/udp/225.1.1.30:30120
+Bình Định,http://42.117.12.25:1111/udp/225.1.1.145:30120
+Bình Phước 1,http://42.117.12.25:1111/udp/225.1.2.23:30120
+BPTV2 - HOMETV,http://42.117.12.25:1111/udp/225.1.2.38:30120
+Bình Thuận,http://42.117.12.25:1111/udp/225.1.1.124:30120
+Cà Mau,http://42.117.12.25:1111/udp/225.1.1.104:30120
+Cao Bằng,http://42.117.12.25:1111/udp/225.1.1.102:30120
+Cần Thơ,http://42.117.12.25:1111/udp/225.1.1.132:30120
+Đà Nẵng 1,http://42.117.12.25:1111/udp/225.1.1.147:30120
+Đắk Lắk,http://42.117.12.25:1111/udp/225.1.1.64:30120
+Điện Biên,http://42.117.12.25:1111/udp/225.1.1.74:30120
+Đồng Nai 1,http://42.117.12.25:1111/udp/225.1.1.152:30120
+Đồng Nai 2,http://42.117.12.25:1111/udp/225.1.1.151:30120
+AZSHOP - DN9,http://42.117.12.25:1111/udp/225.1.1.134:30120
+Đồng Tháp 1,http://42.117.12.25:1111/udp/225.1.1.163:30120
+Gia Lai,http://42.117.12.25:1111/udp/225.1.2.176:30120
+Hà Tĩnh,http://42.117.12.25:1111/udp/225.1.1.75:30120
+Hải Dương,http://42.117.12.25:1111/udp/225.1.1.158:30120
+Hải Phòng HD,http://42.117.12.25:1111/udp/225.1.1.44:30120
+Hậu Giang,http://42.117.12.25:1111/udp/225.1.1.157:30120
+Hưng Yên,http://42.117.12.25:1111/udp/225.1.1.118:30120
+Khánh Hòa,http://42.117.12.25:1111/udp/225.1.1.133:30120
+Kiên Giang,http://42.117.12.25:1111/udp/225.1.2.182:30120
+Kon Tum,http://42.117.12.25:1111/udp/225.1.1.36:30120
+Lào Cai,http://42.117.12.25:1111/udp/225.1.1.119:30120
+Lâm Đồng,http://42.117.12.25:1111/udp/225.1.2.177:30120
+Long An 34,http://42.117.12.25:1111/udp/225.1.1.162:30120
+Nam Định,http://42.117.12.25:1111/udp/225.1.1.120:30120
+Nghệ An,http://42.117.12.25:1111/udp/225.1.2.183:30120
+Ninh Thuận,http://42.117.12.25:1111/udp/225.1.2.178:30120
+Phú Thọ,http://42.117.12.25:1111/udp/225.1.2.165:30120
+Phú Yên,http://42.117.12.25:1111/udp/225.1.2.58:30120
+Quảng Bình,http://42.117.12.25:1111/udp/225.1.2.164:30120
+Quảng Nam,http://42.117.12.25:1111/udp/225.1.2.50:30120
+Quảng Ngãi,http://42.117.12.25:1111/udp/225.1.2.174:30120
+Quảng Ninh 1,http://42.117.12.25:1111/udp/225.1.2.181:30120
+Quảng Ninh 3,http://42.117.12.25:1111/udp/225.1.2.180:30120
+Quảng Trị,http://42.117.12.25:1111/udp/225.1.1.117:30120
+Sóc Trăng 1,http://42.117.12.25:1111/udp/225.1.1.159:30120
+Sơn La,http://42.117.12.25:1111/udp/225.1.1.98:30120
+Tây Ninh 11,http://42.117.12.25:1111/udp/225.1.1.130:30120
+Thái Bình,http://42.117.12.25:1111/udp/225.1.1.99:30120
+Thừa Thiên Huế,http://42.117.12.25:1111/udp/225.1.1.161:30120
+Tuyên Quang,http://42.117.12.25:1111/udp/225.1.2.188:30120
+Vĩnh Long 1,http://42.117.12.25:1111/udp/225.1.1.155:30120
+Vĩnh Long 2,http://42.117.12.25:1111/udp/225.1.1.154:30120
+Vĩnh Phúc,http://42.117.12.25:1111/udp/225.1.2.99:30120
+Yên Bái,http://42.117.12.25:1111/udp/225.1.1.39:30120
+Da Vinci Learning HD,http://42.117.12.25:1111/udp/225.1.2.253:30120
+Discovery Asia HD,http://42.117.12.25:1111/udp/225.1.2.222:30120
+Discovery Asia HD,http://42.117.12.25:1111/udp/225.1.2.223:30120
+Discovery Channel,http://42.117.12.25:1111/udp/225.1.1.238:30120
+Disney Channel,http://42.117.12.25:1111/udp/225.1.1.232:30120
+Disney Channel HD,http://42.117.12.25:1111/udp/225.1.2.158:30120
+Disney Channel HD,http://42.117.12.25:1111/udp/225.1.2.160:30120
+Fashion TV HD,http://42.117.12.25:1111/udp/225.1.2.226:30120
+Fox Sports 2,http://42.117.12.25:1111/udp/225.1.1.241:30120
+Fox Sports 2 HD,http://42.117.12.25:1111/udp/225.1.1.108:30120
+Fox Sports 2 HD,http://42.117.12.25:1111/udp/225.1.1.141:30120
+France 24,http://42.117.12.25:1111/udp/225.1.2.211:30120
+GEM HD,http://42.117.12.25:1111/udp/225.1.1.17:30120
+GEM HD,http://42.117.12.25:1111/udp/225.1.1.60:30120
+HBO HD,http://42.117.12.25:1111/udp/225.1.2.232:30120
+HBO HD,http://42.117.12.25:1111/udp/225.1.2.233:30120
+MAX by HBO,http://42.117.12.25:1111/udp/225.1.1.230:30120
+MAX by HBO HD,http://42.117.12.25:1111/udp/225.1.2.86:30120
+National Geographic HD,http://42.117.12.25:1111/udp/225.1.2.235:30120
+NHK World,http://42.117.12.25:1111/udp/225.1.1.196:30120
+NHK World HD,http://42.117.12.25:1111/udp/225.1.1.47:30120
+Outdoor Channel HD,http://42.117.12.25:1111/udp/225.1.2.214:30120
+Outdoor Channel HD,http://42.117.12.25:1111/udp/225.1.2.215:30120
+Star Movies,http://42.117.12.25:1111/udp/225.1.1.205:30120
+Star Movies HD,http://42.117.12.25:1111/udp/225.1.2.238:30120
+Star Movies HD,http://42.117.12.25:1111/udp/225.1.2.239:30120
+Fox Life HD,http://42.117.12.25:1111/udp/225.1.2.237:30120
+TLC,http://42.117.12.25:1111/udp/225.1.1.236:30120
+Toonami HD,http://42.117.12.25:1111/udp/225.1.2.163:30120
+Toonami HD,http://42.117.12.25:1111/udp/225.1.2.220:30120
+TV5Monde Asia,http://42.117.12.25:1111/udp/225.1.1.200:30120
+Warner Bros TV,http://42.117.12.25:1111/udp/225.1.1.139:30120
+Quang cao the thao FPT,http://42.117.12.25:1111/udp/225.1.2.252:30120
+FOX HD,http://42.117.12.25:1111/udp/225.1.1.51:30120
+FOX HD,http://42.117.12.25:1111/udp/225.1.1.52:30120
+Kenh truc tiep,http://42.117.12.25:1111/udp/225.1.1.13:30120
+Babytv,http://42.117.12.25:1111/udp/225.1.2.146:30120
+Babytv,http://42.117.12.25:1111/udp/225.1.2.147:30120
+G Channel - SCTV4,http://42.117.12.25:1111/udp/225.1.2.187:30120
+N/A,http://42.117.12.25:1111/udp/225.1.2.100:30120
+KIX HD,http://42.117.12.25:1111/udp/225.1.2.144:30120
+KIX HD,http://42.117.12.25:1111/udp/225.1.2.145:30120
+VITV,http://42.117.12.25:1111/udp/225.1.2.143:30120
+BBC Earth HD,http://42.117.12.25:1111/udp/225.1.2.25:30120
+Warner Bros TV HD,http://42.117.12.25:1111/udp/225.1.1.140:30120
+
+🗽
+
+新唐,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
+
+
+🗽smart,#genre#
+香港|翡翠台,https://smart.pendy.dpdns.org/Smart.php?id=jade_twn
+香港|翡翠台 backup,https://smart.pendy.dpdns.org/Smart.php?id=Jade_xue
+香港|iNews 新闻台,https://smart.pendy.dpdns.org/Smart.php?id=inews_twn
+香港|J 2,https://smart.pendy.dpdns.org/Smart.php?id=j2_twn
+香港|珍珠台,https://smart.pendy.dpdns.org/Smart.php?id=pearl_twn
+香港|凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
+香港|HOY资讯台,https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
+香港|RHK 31,https://smart.pendy.dpdns.org/Smart.php?id=rhk31_twn
+香港|VIUTV1,https://smart.pendy.dpdns.org/Smart.php?id=viu1_twn
+香港|RHK 32,https://smart.pendy.dpdns.org/Smart.php?id=rhk32_twn
+香港|凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
+香港|凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
+香港|Viu6,https://smart.pendy.dpdns.org/Smart.php?id=viusix_twn
+中国|CCTV-1 综合 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
+中国|CCTV-2 财经,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
+中国|CCTV-3 综艺 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv3
+中国|CCTV-4 中文国际,https://smart.pendy.dpdns.org/Smart.php?id=cctv4
+中国|CCTV-5 体育频道,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
+中国|CCTV-5+ 体育赛事 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
+中国|CCTV-6,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
+中国|CCTV-7 军事农业,https://smart.pendy.dpdns.org/Smart.php?id=cctv7
+中国|CCTV-8 电视剧 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
+中国|CCTV-9 记录 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
+中国|CCTV-10 科教 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
+中国|CCTV-11 戏曲,https://smart.pendy.dpdns.org/Smart.php?id=cctv11
+中国|CCTV-12 社会与法,https://smart.pendy.dpdns.org/Smart.php?id=cctv12
+中国|CCTV-13 新闻频道,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
+中国|CCTV-14 少儿,https://smart.pendy.dpdns.org/Smart.php?id=cctv14
+中国|CCTV-15 音乐,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
+中国|湖南卫视,https://smart.pendy.dpdns.org/Smart.php?id=hunan_twn
+中国|浙江卫视,https://smart.pendy.dpdns.org/Smart.php?id=zhejiang_twn
+中国|江苏卫视,https://smart.pendy.dpdns.org/Smart.php?id=jiangsu_twn
+中国|深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
+中国|福建东南卫视,https://smart.pendy.dpdns.org/Smart.php?id=fujian
+中国|广东南方卫视,https://smart.pendy.dpdns.org/Smart.php?id=nanfang_twn
+中国|广东卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangdongweishi_twn
+中国|北京卫视,https://smart.pendy.dpdns.org/Smart.php?id=beijing
+中国|珠江台,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
+中国|广西卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangxi
+中国|湖北卫视,https://smart.pendy.dpdns.org/Smart.php?id=hubei
+中国|四川卫视,https://smart.pendy.dpdns.org/Smart.php?id=sichuan_twn
+中国|东方卫视,https://smart.pendy.dpdns.org/Smart.php?id=dongfangweishi_twn
+中国|CGTN,https://smart.pendy.dpdns.org/Smart.php?id=CGTN
+
+
+体育频道|Astro Premier League 1,https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
+体育频道|Astro EPL 1 backup,https://smart.pendy.dpdns.org/Smart.php?id=go_assp1x
+体育频道|Astro Premier League 2,https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
+体育频道|Astro Grandstand,https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
+体育频道|Astro Football,https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
+体育频道|Astro Sports Plus,https://smart.pendy.dpdns.org/Smart.php?id=go_sportsplus
+体育频道|Astro Badminton 1,https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
+体育频道|Astro Badminton 2,https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
+体育频道|Astro W-Sports,https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
+体育频道|Supersports 1,https://smart.pendy.dpdns.org/Smart.php?id=Assp1
+体育频道|Supersports 2,https://smart.pendy.dpdns.org/Smart.php?id=Assp2
+体育频道|Supersports 3,https://smart.pendy.dpdns.org/Smart.php?id=Assp3
+体育频道|Supersports 4,https://smart.pendy.dpdns.org/Smart.php?id=Assp4
+体育频道|WWE,https://smart.pendy.dpdns.org/Smart.php?id=Wwe
+体育频道|Fight Sports,https://smart.pendy.dpdns.org/Smart.php?id=Fs
+体育频道|NBA TV,https://smart.pendy.dpdns.org/Smart.php?id=Nba
+体育频道|Astro Cricket,https://smart.pendy.dpdns.org/Smart.php?id=Acricket
+体育频道|Astro Golf,https://smart.pendy.dpdns.org/Smart.php?id=Agolf
+体育频道|Tnt Sports 1,https://smart.pendy.dpdns.org/Smart.php?id=6fac0aaead
+体育频道|TNT Sports 2,https://smart.pendy.dpdns.org/Smart.php?id=d9a76a79cc
+体育频道|TNT Sports 3,https://smart.pendy.dpdns.org/Smart.php?id=5fea4d73db
+体育频道|TNT Sports 4,https://smart.pendy.dpdns.org/Smart.php?id=tntsport4
+体育频道|Sony Ten 1,https://smart.pendy.dpdns.org/Smart.php?id=ten1_raj
+体育频道|Sony Ten 2,https://smart.pendy.dpdns.org/Smart.php?id=ten2_raj
+体育频道|Sony Ten 3,https://smart.pendy.dpdns.org/Smart.php?id=ten3_raj
+体育频道|SPOTV 1 HD,https://smart.pendy.dpdns.org/Smart.php?id=go_spotv
+体育频道|SPO TV 2,https://smart.pendy.dpdns.org/Smart.php?id=go_spotv2
+体育频道|Skysports F1,https://smart.pendy.dpdns.org/Smart.php?id=tiankongf1
+体育频道|Skysports Cricket,https://smart.pendy.dpdns.org/Smart.php?id=tiankongcricket
+体育频道|Skysports EPL,https://smart.pendy.dpdns.org/Smart.php?id=tiankongepl
+体育频道|Skysports Main Event,https://smart.pendy.dpdns.org/Smart.php?id=tiankongmain
+体育频道|Skysports News,https://smart.pendy.dpdns.org/Smart.php?id=tiankongnews
+体育频道|Skysports Mix,https://smart.pendy.dpdns.org/Smart.php?id=tiankongmix
+体育频道|爱尔达体育2台,https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
+体育频道|爱尔达体育3台,https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
+体育频道|Rugby Pass TV,https://smart.pendy.dpdns.org/Smart.php?id=Rugbypasstv
+体育频道|RTM Sports HD,https://smart.pendy.dpdns.org/Smart.php?id=Rtmsport
+体育频道|Arena,https://smart.pendy.dpdns.org/Smart.php?id=Arena
+体育频道|Arena 2,https://smart.pendy.dpdns.org/Smart.php?id=Arena2
+体育频道|BolaArena 1,https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
+体育频道|BolaArena 2,https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena2
+体育频道|Astro Beinsports 1,https://smart.pendy.dpdns.org/Smart.php?id=Astrobein1
+体育频道|Astro Beinsports 2,https://smart.pendy.dpdns.org/Smart.php?id=Astrobein2
+体育频道|Astro Beinsports 3,https://smart.pendy.dpdns.org/Smart.php?id=Astrobein3
+
+
+
+台湾|TVBS News 新闻台,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
+台湾|TVBS 欢乐台 （备份）,https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
+台湾|TVBS HD,https://smart.pendy.dpdns.org/Smart.php?id=tvbs
+台湾|中天新闻 HD,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
+台湾|中天娱乐 CTI Entertaiment,https://smart.pendy.dpdns.org/Smart.php?id=ctient
+台湾|中天综合 CTI Metro,https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
+台湾|中天亚洲台,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn台湾|台视 TTV HD,https://smart.pendy.dpdns.org/Smart.php?id=ttv_taiwan
+台湾|台视新闻台,https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
+台湾|台视综合台,https://smart.pendy.dpdns.org/Smart.php?id=ttvzhonghe
+台湾|中视 HD,https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
+台湾|中视新闻台,https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
+台湾|民视 HD,https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan民视新闻台 FTV News,https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
+台湾|视台湾台,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
+
+
+台湾|华视 CTS HD,https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
+台湾|CTV ,https://smart.pendy.dpdns.org/Smart.php?id=ctv18_twn
+台湾|八大第一 GTV First,https://smart.pendy.dpdns.org/Smart.php?id=badafirst
+台湾|八大综合 GTV Metro,https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
+台湾|八大戏剧 GTV Drama,https://smart.pendy.dpdns.org/Smart.php?id=badadrama
+台湾|八大娱乐 GTV Entertainment,https://smart.pendy.dpdns.org/Smart.php?id=badaentertain
+台湾|HBO_HD,https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn
+台湾|HBO_HITS,https://smart.pendy.dpdns.org/Smart.php?id=hbohit_twn
+台湾|Hollywood Movies,https://smart.pendy.dpdns.org/Smart.php?id=hollywoodmovies_twn
+台,https://smart.pendy.dpdns.org/Smart.php?id=eltazonghe_twn
+台湾|星卫电影,https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
+台湾|AFC 亚洲旅游台,https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
+
+
+台湾|三立台湾 Sanli Taiwan,https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
+台湾|三立戏剧台,https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
+台湾|三立综合 Sanli Metro,https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
+台湾|三立都会台,https://smart.pendy.dpdns.org/Smart.php?id=sanlidouhui
+台湾|东森新闻 ETTV News,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
+台湾|CINEMAX,https://smart.pendy.dpdns.org/Smart.php?id=cinemax_twn
+台湾|东森综合 ETTV Metro,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
+台湾|东森戏剧 ETTV Drama,https://smart.pendy.dpdns.org/Smart.php?id=ettvdrama
+台湾|东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
+台湾|东森财经新闻 ETTV Business,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
+台湾|寰宇财经,https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
+
+
+
+
+
+台湾|寰宇新闻台,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
+台湾|wtv2,https://smart.pendy.dpdns.org/Smart.php?id=ctv2_twn
+台湾|大爱1台,https://smart.pendy.dpdns.org/Smart.php?id=daai_twn
+台湾|大爱3,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
+
+
+台湾|龙华戏剧 Lunghua Drama,https://smart.pendy.dpdns.org/Smart.php?id=lunghuaxiju_twn
+台湾|龙华经典台,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
+台湾|龙华偶像,https://smart.pendy.dpdns.org/Smart.php?id=lunghuaidol_twn
+台湾|AXN Taiwan,https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
+台湾|靖天国际台,https://smart.pendy.dpdns.org/Smart.php?id=jingtianintl_twn
+台湾|年代新闻,https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
+台湾|纬来日本台,https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan
+台湾|纬来电影台,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
+台湾|纬来体育台,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
+台湾|纬来综合台,https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
+台湾|纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
+台湾|纬来精彩,https://smart.pendy.dpdns.org/Smart.php?id=videolandspecial_twn
+
+
+
+
+台湾|好消息 2,https://smart.pendy.dpdns.org/Smart.php?id=good2_twn
+台湾|大爱2台,https://smart.pendy.dpdns.org/Smart.php?id=daai2_twn
+台湾|亚洲美食,https://smart.pendy.dpdns.org/Smart.php?id=afc_twn
+台湾|美食星球,https://smart.pendy.dpdns.org/Smart.php?id=foodplanet_twn
+台湾|亚洲旅游 TLC Asia,https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn
+台湾|东森电影 ETTV Movie,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
+台湾|阿里郎 Arirang,https://smart.pendy.dpdns.org/Smart.php?id=arirang_twn
+
+
+
+
+台湾|大爱4,https://smart.pendy.dpdns.org/Smart.php?id=bosisport1_twn
+台湾|大爱5,https://smart.pendy.dpdns.org/Smart.php?id=bosisport2_twn
+
+
+台湾|大爱高球2 HD,https://smart.pendy.dpdns.org/Smart.php?id=bosigolf2_twn
+台湾|大爱网球 HD,https://smart.pendy.dpdns.org/Smart.php?id=bositennis_twn
+台湾|东森洋片 ETTV Western,https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
+台湾|龙华洋片 Lunghua Western,https://smart.pendy.dpdns.org/Smart.php?id=lunghuawestern_twn
+台湾|大爱无限,https://smart.pendy.dpdns.org/Smart.php?id=bosiunlimited_twn
+台湾|MTV Live,https://smart.pendy.dpdns.org/Smart.php?id=mtvhd_twn
+台湾|龙详时代,https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
+台湾|EYETV 旅游,https://smart.pendy.dpdns.org/Smart.php?id=eyetvtravel_twn
+台湾|靖天卡通台,https://smart.pendy.dpdns.org/Smart.php?id=jingtiancartoon_twn
+台湾|EYETV 戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
+台湾|卫视中文台 Star Movies Chinese,https://smart.pendy.dpdns.org/Smart.php?id=weishichinese_twn
+台湾|东森幼幼 Yoyo TV,https://smart.pendy.dpdns.org/Smart.php?id=yoyo_twn
+台湾|卫视电影台,https://smart.pendy.dpdns.org/Smart.php?id=weishimovie_twn
+台湾|美亚电影,https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
+台湾|爱尔达影剧台,https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
+台湾|爱尔达综合台,https://smart.pendy.dpdns.org/Smart.php?id=eltazonghe_twn
+台湾|星卫电影,https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
+台湾|AFC 亚洲旅游台,https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
+
+
+
+
+电影频道|Cinemax,https://smart.pendy.dpdns.org/Smart.php?id=Cinemax
+电影频道|Animax,https://smart.pendy.dpdns.org/Smart.php?id=Animax
+电影频道|Movies Now HD,https://smart.pendy.dpdns.org/Smart.php?id=moviesnow_raj
+电影频道|Star Movies HD,https://smart.pendy.dpdns.org/Smart.php?id=starmovies_raj
+电影频道|HBO Family,https://smart.pendy.dpdns.org/Smart.php?id=Hbofamily
+电影频道|Hits,https://smart.pendy.dpdns.org/Smart.php?id=Hits
+电影频道|Warner TV,https://smart.pendy.dpdns.org/Smart.php?id=WarnerTV
+电影频道|HBO HD,https://smart.pendy.dpdns.org/Smart.php?id=Hbo
+电影频道|HBO Signature,https://smart.pendy.dpdns.org/Smart.php?id=Hbosignature
+电影频道|HBO Hits,https://smart.pendy.dpdns.org/Smart.php?id=Hbohitshd
+电影频道|SCM,https://smart.pendy.dpdns.org/Smart.php?id=Weishimovie
+电影频道|Dreamworks,https://smart.pendy.dpdns.org/Smart.php?id=Dreamworks
+电影频道|Thrill,https://smart.pendy.dpdns.org/Smart.php?id=Thrill
+电影频道|Hits Movie,https://smart.pendy.dpdns.org/Smart.php?id=Hitsmovie
+电影频道|One,https://smart.pendy.dpdns.org/Smart.php?id=One
+电影频道|tvN Movie,https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie
+电影频道|Celestial Classic,https://smart.pendy.dpdns.org/Smart.php?id=Celestial2
+电影频道|Celestial Movies HD,https://smart.pendy.dpdns.org/Smart.php?id=Celestialindo
+电影频道|Axn HD,https://smart.pendy.dpdns.org/Smart.php?id=Axn
+电影频道|Paramount Network,https://smart.pendy.dpdns.org/Smart.php?id=Paramountnetwork
+电影频道|Astrol Kplus,https://smart.pendy.dpdns.org/Smart.php?id=Kplus
+电影频道|Rock Actions,https://smart.pendy.dpdns.org/Smart.php?id=Rockaction
+电影频道|Rock Entertainment,https://smart.pendy.dpdns.org/Smart.php?id=Rockentertain
+纪录频道|Natgeo_HD,https://smart.pendy.dpdns.org/Smart.php?id=natgeohd_twn
+纪录频道|NatGeo_Wild HD,https://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn
+纪录频道|Animal_Planet,https://smart.pendy.dpdns.org/Smart.php?id=animalplanet_twn
+纪录频道|Discovery Asia,https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
+纪录频道|CI,https://smart.pendy.dpdns.org/Smart.php?id=ci_twn
+纪录频道|Discovery HD,https://smart.pendy.dpdns.org/Smart.php?id=discoveryhd_twn
+纪录频道|NatGeo HD,https://smart.pendy.dpdns.org/Smart.php?id=Natgeo
+纪录频道|Fashion TV,https://smart.pendy.dpdns.org/Smart.php?id=fashiontv_twn
+纪录频道|History,https://smart.pendy.dpdns.org/Smart.php?id=History
+纪录频道|BBC Earth HD,https://smart.pendy.dpdns.org/Smart.php?id=bbcearth_twn
+纪录频道|BBC Earth Lifestyle,https://smart.pendy.dpdns.org/Smart.php?id=bbclifestyle_twn
+纪录频道|NatGeo Wild HD,https://smart.pendy.dpdns.org/Smart.php?id=Natgeowild
+纪录频道|Animal Planet (Eng),https://smart.pendy.dpdns.org/Smart.php?id=AnimalPlanet
+纪录频道|TLC,https://smart.pendy.dpdns.org/Smart.php?id=Tlc
+纪录频道|Foodnetwork Hd,https://smart.pendy.dpdns.org/Smart.php?id=Foodnetwork
+纪录频道|HGTV,https://smart.pendy.dpdns.org/Smart.php?id=HGTV
+新闻频道|Skynews,https://smart.pendy.dpdns.org/Smart.php?id=skynews_twn
+新闻频道|ABC News,https://smart.pendy.dpdns.org/Smart.php?id=abcnews_glo
+新闻频道|CBS HD,https://smart.pendy.dpdns.org/Smart.php?id=cbshd_glo
+新闻频道|CBSN HD,https://smart.pendy.dpdns.org/Smart.php?id=cbsn_glo
+新闻频道|France 24,https://smart.pendy.dpdns.org/Smart.php?id=france24_twn
+新闻频道|DW (Deutsch),https://smart.pendy.dpdns.org/Smart.php?id=dw_twn
+新闻频道|NHK World,https://smart.pendy.dpdns.org/Smart.php?id=nhkworld_japan
+新闻频道|Fox News,https://smart.pendy.dpdns.org/Smart.php?id=foxnews_twn
+新闻频道|CNN International,https://smart.pendy.dpdns.org/Smart.php?id=Cnn
+新闻频道|CNN backup,https://smart.pendy.dpdns.org/Smart.php?id=cnn_twn
+新闻频道|CNBC,https://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn
+新闻频道|CNA,https://smart.pendy.dpdns.org/Smart.php?id=cna
+新闻频道|BBC World News,https://smart.pendy.dpdns.org/Smart.php?id=bbcnews_twn
+新闻频道|BBC World News,https://smart.pendy.dpdns.org/Smart.php?id=Bbcnews
+新闻频道|Bloomberg News,https://smart.pendy.dpdns.org/Smart.php?id=bloomberg_twn
+新闻频道|Al-Jazeera,https://smart.pendy.dpdns.org/Smart.php?id=aljazeera_twn
+儿童频道|Baby TV Eng,https://smart.pendy.dpdns.org/Smart.php?id=Babytv
+儿童频道|CBeebies,https://smart.pendy.dpdns.org/Smart.php?id=Cbeebies
+儿童频道|Kids TV,https://smart.pendy.dpdns.org/Smart.php?id=KidsTV
+儿童频道|Momo TV,https://smart.pendy.dpdns.org/Smart.php?id=momo1_twn
+儿童频道|Baby TV,https://smart.pendy.dpdns.org/Smart.php?id=babytv_twn
+儿童频道|MiaoMi,https://smart.pendy.dpdns.org/Smart.php?id=MiaoMi
+儿童频道|Cartoon Network,https://smart.pendy.dpdns.org/Smart.php?id=Cn
+儿童频道|Nickelodeon,https://smart.pendy.dpdns.org/Smart.php?id=Nickelodeon
+儿童频道|Nick Jr,https://smart.pendy.dpdns.org/Smart.php?id=Nickjr
+新加坡|Channel 5,https://smart.pendy.dpdns.org/Smart.php?id=Channel5HD
+新加坡|Channel 8,https://smart.pendy.dpdns.org/Smart.php?id=Channel8HD
+新加坡|Suria,https://smart.pendy.dpdns.org/Smart.php?id=Suria
+新加坡|Channel U,https://smart.pendy.dpdns.org/Smart.php?id=ChannelU
+新加坡|Vasantham,https://smart.pendy.dpdns.org/Smart.php?id=Vasantham
+新加坡|CNA backup,https://smart.pendy.dpdns.org/Smart.php?id=cna_twn
+新加坡|MeWatch Ch 5,https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_ch5
+新加坡|MeWatch Ch 8,https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_ch8
+新加坡|MeWatch Ch U,https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_chU
+新加坡|MeWatch Suria,https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_Suria
+新加坡|MeWatch Vasantham,https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_Vasantham
+新加坡|MeWatch CNA,https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_cna
+马来西亚|TV1,https://smart.pendy.dpdns.org/Smart.php?id=TV1
+马来西亚|TV1 backup,https://smart.pendy.dpdns.org/Smart.php?id=TV1_backup
+马来西亚|TV2,https://smart.pendy.dpdns.org/Smart.php?id=TV2
+马来西亚|TV3,https://smart.pendy.dpdns.org/Smart.php?id=TV3
+马来西亚|TV3 SD,https://smart.pendy.dpdns.org/Smart.php?id=TV3_mega
+马来西亚|NTV7,https://smart.pendy.dpdns.org/Smart.php?id=NTV7
+马来西亚|TV8,https://smart.pendy.dpdns.org/Smart.php?id=TV8
+马来西亚|TV9,https://smart.pendy.dpdns.org/Smart.php?id=TV9
+马来西亚|Ria,https://smart.pendy.dpdns.org/Smart.php?id=Ria-0
+马来西亚|Ria-3,https://smart.pendy.dpdns.org/Smart.php?id=Ria_backup
+马来西亚|Al-Hijrah,https://smart.pendy.dpdns.org/Smart.php?id=Alhijrah
+马来西亚|Al-Hijrah backup,https://smart.pendy.dpdns.org/Smart.php?id=Alhijrah_backup
+马来西亚|Awani,https://smart.pendy.dpdns.org/Smart.php?id=Awani
+马来西亚|Bernama,https://smart.pendy.dpdns.org/Smart.php?id=Bernama
+马来西亚|Prima,https://smart.pendy.dpdns.org/Smart.php?id=Prima-0
+马来西亚|Prima backup,https://smart.pendy.dpdns.org/Smart.php?id=AAprima1
+马来西亚|Prima backup 2,https://smart.pendy.dpdns.org/Smart.php?id=AAprima
+马来西亚|Ceria,https://smart.pendy.dpdns.org/Smart.php?id=Ceria
+马来西亚|Astro MTV,https://smart.pendy.dpdns.org/Smart.php?id=AstroMTV
+马来西亚|Mecca Live HD,https://smart.pendy.dpdns.org/Smart.php?id=quran_mido
+马来西亚|Madinah HD,https://smart.pendy.dpdns.org/Smart.php?id=sunnah_mido
+马来西亚|Oasis,https://smart.pendy.dpdns.org/Smart.php?id=Oasis
+马来西亚|Siar,https://smart.pendy.dpdns.org/Smart.php?id=Siar
+马来西亚|Citra,https://smart.pendy.dpdns.org/Smart.php?id=AAcitra
+马来西亚|Citra backup,https://smart.pendy.dpdns.org/Smart.php?id=AAcitra1
+马来西亚|Sensasi,https://smart.pendy.dpdns.org/Smart.php?id=Sensasi
+马来西亚|Aura,https://smart.pendy.dpdns.org/Smart.php?id=Aura
+马来西亚|Rania,https://smart.pendy.dpdns.org/Smart.php?id=Rania
+马来西亚|KBS World,https://smart.pendy.dpdns.org/Smart.php?id=KBS
+马来西亚|Boo,https://smart.pendy.dpdns.org/Smart.php?id=Boo
+马来西亚|Awesome TV,https://smart.pendy.dpdns.org/Smart.php?id=Dsangat
+马来西亚|Astro Sonypix,https://smart.pendy.dpdns.org/Smart.php?id=Asonypix
+马来西亚|Sony HD,https://smart.pendy.dpdns.org/Smart.php?id=SetOne
+马来西亚|TvN,https://smart.pendy.dpdns.org/Smart.php?id=TVN
+马来西亚|AEC,https://smart.pendy.dpdns.org/Smart.php?id=AEC
+马来西亚|华丽台 HD （Wah Lai Toi）,https://smart.pendy.dpdns.org/Smart.php?id=Wlt
+马来西亚|欢喜台 HD （Hua Hee Tai）,https://smart.pendy.dpdns.org/Smart.php?id=Huahee
+马来西亚|Astro QJ,https://smart.pendy.dpdns.org/Smart.php?id=Quanjia
+马来西亚|TVB Jade,https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade
+马来西亚|TVB Asia,https://smart.pendy.dpdns.org/Smart.php?id=Tvbasia
+马来西亚|TVB Entertainment,https://smart.pendy.dpdns.org/Smart.php?id=Tvbentertainment
+马来西亚|TVB Classic,https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic
+马来西亚|AOD,https://smart.pendy.dpdns.org/Smart.php?id=Aodhd
+马来西亚|TVB 星河台 Xing He,https://smart.pendy.dpdns.org/Smart.php?id=Xinhe
+马来西亚|爱奇艺 iQiyi,https://smart.pendy.dpdns.org/Smart.php?id=Qiyi
+马来西亚|Goshop,https://smart.pendy.dpdns.org/Smart.php?id=Goshop
+马来西亚|Celestial Movies HD,https://smart.pendy.dpdns.org/Smart.php?id=Celestial
+马来西亚|Astro LOL,https://smart.pendy.dpdns.org/Smart.php?id=Astro_lol
+马来西亚|Astro Rusi,https://smart.pendy.dpdns.org/Smart.php?id=Rusi
+马来西亚|WION,https://smart.pendy.dpdns.org/Smart.php?id=Wion
+马来西亚|RTM Asean,https://smart.pendy.dpdns.org/Smart.php?id=Rtmasean
+印度尼西亚|TVRI National,https://smart.pendy.dpdns.org/Smart.php?id=TVRI
+印度尼西亚|RCTI,https://smart.pendy.dpdns.org/Smart.php?id=Rcti
+印度尼西亚|Kompass TV,https://smart.pendy.dpdns.org/Smart.php?id=Kompass
+印度尼西亚|Berita Satu,https://smart.pendy.dpdns.org/Smart.php?id=BeritaSatu_eko
+印度尼西亚|Indosiar HD,https://smart.pendy.dpdns.org/Smart.php?id=Indosiar
+印度尼西亚|AnTV,https://smart.pendy.dpdns.org/Smart.php?id=Antv
+印度尼西亚|MNC TV,https://smart.pendy.dpdns.org/Smart.php?id=Mnctv
+印度尼西亚|Trans 7,https://smart.pendy.dpdns.org/Smart.php?id=Trans7_eko
+印度尼西亚|Transtv,https://smart.pendy.dpdns.org/Smart.php?id=Transtv
+印度尼西亚|JTV,https://smart.pendy.dpdns.org/Smart.php?id=JTV_eko
+印度尼西亚|Metro TV,https://smart.pendy.dpdns.org/Smart.php?id=metrotv_eko
+印度尼西亚|SCTV,https://smart.pendy.dpdns.org/Smart.php?id=SCTV
+印度尼西亚|Tvone,https://smart.pendy.dpdns.org/Smart.php?id=Tvone
+印度尼西亚|TVMU,https://smart.pendy.dpdns.org/Smart.php?id=TVMU_eko
+印度尼西亚|GTV,https://smart.pendy.dpdns.org/Smart.php?id=Gtv
+印度尼西亚|RTV,https://smart.pendy.dpdns.org/Smart.php?id=Rtv
+印度尼西亚|Jak TV,https://smart.pendy.dpdns.org/Smart.php?id=JakTV
+印度尼西亚|iNews TV,https://smart.pendy.dpdns.org/Smart.php?id=Inewstv
+印度尼西亚|Daai TV,https://smart.pendy.dpdns.org/Smart.php?id=DaaiTV
+印度尼西亚|Net TV,https://smart.pendy.dpdns.org/Smart.php?id=NetTV
+印度尼西亚|EWTN,https://smart.pendy.dpdns.org/Smart.php?id=Ewtn
+印度尼西亚|AlQuran AlKareem,https://smart.pendy.dpdns.org/Smart.php?id=AlQuran
+印度尼西亚|Tawaf TV,https://smart.pendy.dpdns.org/Smart.php?id=TawafTV
+印度尼西亚|Vision Prime,https://smart.pendy.dpdns.org/Smart.php?id=VisionPrime
+印度尼西亚|Muslim TV,https://smart.pendy.dpdns.org/Smart.php?id=MuslimTV
+印度尼西亚|Music TV,https://smart.pendy.dpdns.org/Smart.php?id=MusicTV
+印度尼西亚|Lifestyle&Fashion,https://smart.pendy.dpdns.org/Smart.php?id=Lifestyle
+印度尼西亚|Entertain,https://smart.pendy.dpdns.org/Smart.php?id=Entertain
+印度|Sun TV HD,https://smart.pendy.dpdns.org/Smart.php?id=Suntv
+印度|Star Vijay,https://smart.pendy.dpdns.org/Smart.php?id=Starvijay
+印度|Colors Tamil,https://smart.pendy.dpdns.org/Smart.php?id=Colorstam
+印度|Sun Music,https://smart.pendy.dpdns.org/Smart.php?id=Sunmusic
+印度|Astro Sunlife,https://smart.pendy.dpdns.org/Smart.php?id=Sunlife
+印度|Astro Vaanavil,https://smart.pendy.dpdns.org/Smart.php?id=Vaanavil
+印度|Zee Tamil,https://smart.pendy.dpdns.org/Smart.php?id=Zeetamil
+印度|Zee Business,https://smart.pendy.dpdns.org/Smart.php?id=Zeebusiness
+印度|News 18 Tamil,https://smart.pendy.dpdns.org/Smart.php?id=news18tamil_raj
+印度|Adithya,https://smart.pendy.dpdns.org/Smart.php?id=Adithya
+印度|Makkal TV,https://smart.pendy.dpdns.org/Smart.php?id=Makkaltv
+印度|Zee Action,https://smart.pendy.dpdns.org/Smart.php?id=Zeeaction
+印度|Astro KTV,https://smart.pendy.dpdns.org/Smart.php?id=Astroktv
+印度|Zee TV HD,https://smart.pendy.dpdns.org/Smart.php?id=Zeetvhd
+印度|Zee Cinema HD,https://smart.pendy.dpdns.org/Smart.php?id=Zeecinemahd
+印度|Color HD,https://smart.pendy.dpdns.org/Smart.php?id=Colorhd
+印度|Starplus HD,https://smart.pendy.dpdns.org/Smart.php?id=Starplushd
+印度|Picture HD,https://smart.pendy.dpdns.org/Smart.php?id=Npicture
+印度|Zee News,https://smart.pendy.dpdns.org/Smart.php?id=Zeenews
+印度|Asianet,https://smart.pendy.dpdns.org/Smart.php?id=asianet_raj
+印度|Asianet News,https://smart.pendy.dpdns.org/Smart.php?id=asianetnews_raj
+印度|Discovery World Tamil,https://smart.pendy.dpdns.org/Smart.php?id=discoveryworldtam_raj
+印度|History Tamil,https://smart.pendy.dpdns.org/Smart.php?id=historytam_raj
+印度|NatGeo Tamil,https://smart.pendy.dpdns.org/Smart.php?id=natgeotamil_raj
+印度|Natgeo Wild Tamil,https://smart.pendy.dpdns.org/Smart.php?id=natgeowildtamil_raj
+印度|Discovery Kids Tamil,https://smart.pendy.dpdns.org/Smart.php?id=discoverykidtamil_raj
+印度|Discovery Tamil,https://smart.pendy.dpdns.org/Smart.php?id=discoverytamil_raj
+印度|Sony Yay Tamil,https://smart.pendy.dpdns.org/Smart.php?id=sonyyaytam_raj
+印度|Sun TV India,https://smart.pendy.dpdns.org/Smart.php?id=suntv_raj
+印度|Starmaa HD,https://smart.pendy.dpdns.org/Smart.php?id=starmaa_raj
+印度|Starmaa Movies HD,https://smart.pendy.dpdns.org/Smart.php?id=starmaamovies_raj
+印度|Bollyone,https://smart.pendy.dpdns.org/Smart.php?id=Bollyone
+印度|Vijay Super,https://smart.pendy.dpdns.org/Smart.php?id=vijaysuper_raj
+印度|Vellithirai,https://smart.pendy.dpdns.org/Smart.php?id=Vellithirai
+泰国|Channel 3 Thailand,https://smart.pendy.dpdns.org/Smart.php?id=ch3_pat
+泰国|Channel 5 Thailand,https://smart.pendy.dpdns.org/Smart.php?id=ch5_pat
+泰国|Channel 7 Thailand,https://smart.pendy.dpdns.org/Smart.php?id=ch7_pat
+泰国|MCOT HD Thailand-1,https://smart.pendy.dpdns.org/Smart.php?id=mcot_pat
+泰国|PPTV Thailand1,https://smart.pendy.dpdns.org/Smart.php?id=pptv_pat
+泰国|Thai Thai,https://smart.pendy.dpdns.org/Smart.php?id=thaithai_pat
+泰国|Amarin,https://smart.pendy.dpdns.org/Smart.php?id=amarin_pat
+泰国|Ch 8,https://smart.pendy.dpdns.org/Smart.php?id=ch8_pat
+泰国|GmmOne,https://smart.pendy.dpdns.org/Smart.php?id=gmmone_pat
+泰国|Mono,https://smart.pendy.dpdns.org/Smart.php?id=mono_pat
+泰国|Thairath,https://smart.pendy.dpdns.org/Smart.php?id=thairath_pat
+泰国|tpbs,https://smart.pendy.dpdns.org/Smart.php?id=tpbs_pat
+泰国|Workpoint,https://smart.pendy.dpdns.org/Smart.php?id=workpoint_pat
+泰国|Gmm Channel,https://smart.pendy.dpdns.org/Smart.php?id=gmmchannel_pat
+泰国|Nation,https://smart.pendy.dpdns.org/Smart.php?id=nation_pat
+泰国|Tnn24,https://smart.pendy.dpdns.org/Smart.php?id=tnn24_pat
+泰国|Nbt,https://smart.pendy.dpdns.org/Smart.php?id=nbt_pat
+泰国|New,https://smart.pendy.dpdns.org/Smart.php?id=new_pat
+泰国|TPTV,https://smart.pendy.dpdns.org/Smart.php?id=tptv_pat
+英国|BBC 1,https://smart.pendy.dpdns.org/Smart.php?id=bbc1_antik
+英国|BBC 2,https://smart.pendy.dpdns.org/Smart.php?id=bbc2_antik
+英国|CBBC,https://smart.pendy.dpdns.org/Smart.php?id=cbbc_antik
+英国|More4,https://smart.pendy.dpdns.org/Smart.php?id=more4_antik
+英国|Freesports,https://smart.pendy.dpdns.org/Smart.php?id=freesports_antik
+英国|Pick TV,https://smart.pendy.dpdns.org/Smart.php?id=picktv_antik
+英国|itv 1,https://smart.pendy.dpdns.org/Smart.php?id=itv1_antik
+英国|itv 2,https://smart.pendy.dpdns.org/Smart.php?id=itv2_antik
+英国|Euronews,https://smart.pendy.dpdns.org/Smart.php?id=euronews_antik
+英国|Channel 4,https://smart.pendy.dpdns.org/Smart.php?id=channel4_antik
+英国|BBC World News,https://smart.pendy.dpdns.org/Smart.php?id=bbcworldnews_antik
+越南|ANTV,https://smart.pendy.dpdns.org/Smart.php?id=viet_antv
+越南|VTV 1,https://smart.pendy.dpdns.org/Smart.php?id=viet_vtv1
+越南|VTV 7,https://smart.pendy.dpdns.org/Smart.php?id=viet_vtv7
+越南|HTV 7,https://smart.pendy.dpdns.org/Smart.php?id=viet_htv7
+越南|HTV 9,https://smart.pendy.dpdns.org/Smart.php?id=viet_htv9
+越南|BPTV 2,https://smart.pendy.dpdns.org/Smart.php?id=viet_bptv2
+越南|BRT HD,https://smart.pendy.dpdns.org/Smart.php?id=viet_brt
+越南|Ca Mau TV,https://smart.pendy.dpdns.org/Smart.php?id=viet_camautv
+越南|Danang TV1 HD,https://smart.pendy.dpdns.org/Smart.php?id=viet_danangtv1
+越南|Danang TV2 HD,https://smart.pendy.dpdns.org/Smart.php?id=viet_danangtv2
+越南|HBTV HD,https://smart.pendy.dpdns.org/Smart.php?id=viet_hbtv
+越南|PTTH 1,https://smart.pendy.dpdns.org/Smart.php?id=viet_ptth1
+韩国|Arirang HD,https://smart.pendy.dpdns.org/Smart.php?id=arirang_korea
+韩国|Yonhap News,https://smart.pendy.dpdns.org/Smart.php?id=yonhapnews_korea
+韩国|CBS,https://smart.pendy.dpdns.org/Smart.php?id=cbs_korea
+韩国|EBS 1,https://smart.pendy.dpdns.org/Smart.php?id=ebs1_korea
+韩国|EBS2,https://smart.pendy.dpdns.org/Smart.php?id=ebs2_korea
+韩国|EBS Plus2,https://smart.pendy.dpdns.org/Smart.php?id=ebsplus2_korea
+韩国|SBS Plus,https://smart.pendy.dpdns.org/Smart.php?id=sbsplus_korea
+韩国|YTN,https://smart.pendy.dpdns.org/Smart.php?id=ytn_korea
+韩国|KBS World 24,https://smart.pendy.dpdns.org/Smart.php?id=kbsworld24_korea
+韩国|YTN Science,https://smart.pendy.dpdns.org/Smart.php?id=ytnscience_korea
+韩国|YTN Korean,https://smart.pendy.dpdns.org/Smart.php?id=ytnkorean_korea
+韩国|YTN DMB,https://smart.pendy.dpdns.org/Smart.php?id=ytndmb_korea
+韩国|Apps TV,https://smart.pendy.dpdns.org/Smart.php?id=appongoogle_korea
+韩国|All the Kpop,https://smart.pendy.dpdns.org/Smart.php?id=allthekpop_korea
+韩国|J the Kpop,https://smart.pendy.dpdns.org/Smart.php?id=jthekpop_korea
+韩国|EBS Kids,https://smart.pendy.dpdns.org/Smart.php?id=ebskids_korea
+韩国|CGNTV,https://smart.pendy.dpdns.org/Smart.php?id=cgntv_korea
+日本|NHK-総合-2,https://smart.pendy.dpdns.org/Smart.php?id=nhkg_japan
+日本|NHK-E,https://smart.pendy.dpdns.org/Smart.php?id=nhke_japan
+日本|テレビ朝日 Asahi TV,https://smart.pendy.dpdns.org/Smart.php?id=asahitv_japan
+日本|JET 綜合,https://smart.pendy.dpdns.org/Smart.php?id=jettv_japan
+日本|テレビ東京 Tokyo TV,https://smart.pendy.dpdns.org/Smart.php?id=tokyotv_japan
+日本|TOKYOMX,https://smart.pendy.dpdns.org/Smart.php?id=tokyomx_japan
+日本|NHKBS1,https://smart.pendy.dpdns.org/Smart.php?id=nhkbs1_japan
+日本|NHKBSプレミア Premium,https://smart.pendy.dpdns.org/Smart.php?id=nhkpremium_japan
+日本|BSジャパン 181,https://smart.pendy.dpdns.org/Smart.php?id=bs181_japan
+日本|BSフジ BS Fuji,https://smart.pendy.dpdns.org/Smart.php?id=bsfuji_japan
+日本|CNA Japan,https://smart.pendy.dpdns.org/Smart.php?id=cna_japan
+日本|BS-TBS,https://smart.pendy.dpdns.org/Smart.php?id=bstbs_japan
+日本|NHK Oaska,https://smart.pendy.dpdns.org/Smart.php?id=nhkosaka_japan
+
+
+
+
+AMC NETWORK,http://212.102.60.231/AMC_NETWORK/index.m3u8
+BET EAST,http://212.102.60.231/BET_EAST/index.m3u8
+BET HER,http://212.102.60.231/BET_HER/index.m3u8
+MGM+ Marquee,http://212.102.60.231/EPIX_HITS/index.m3u8
+MOTOR TREND,http://212.102.60.231/MOTOR_TREND/index.m3u8
+MTV,http://212.102.60.231/MTV/index.m3u8
+HBO FAMILY,http://212.102.60.231/HBO_FAMILY/index.m3u8
+HBO 2,http://212.102.60.231/HBO_2/index.m3u8
+DISNEY,https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+HBO,http://212.102.60.231/HBO/index.m3u8
+World Fishing Network ,http://212.102.60.231/WORLD_FISHING_NETWORK/index.m3u8
+TSN1,http://212.102.60.231/TSN_1/index.m3u8
+TSN2,http://212.102.60.231/TSN_2/index.m3u8
+TSN3,http://212.102.60.231/TSN_3/index.m3u8
+TSN4,http://212.102.60.231/TSN_4/index.m3u8
+TSN5,http://212.102.60.231/TSN_5/index.m3u8
+vivid-red,https://oklivetv.com/xplay/m3u8/N1VQM0VBOUNWbVZwQzZOZUpSR3JVZz09.m3u8
+
+
+
+🇺🇸美国,#genre# 
+News max,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+CNN,https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
+ABC_EAST,https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+ACC_NETWORK,https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
+Animal_Planet,https://fl1.moveonjoy.com/Animal_Planet/index.m3u8
+AMC_NETWORK,https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+American_Heroes,https://fl1.moveonjoy.com/American_Heroes_Channel/index.m3u8
+BRAVO,https://fl1.moveonjoy.com/BRAVO/index.m3u8
+TNT,https://fl1.moveonjoy.com/TNT/index.m3u8
+
+BBC_AMERICA,https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
+BBC_WORLD,https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+BEIN_SPORTS,https://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+BET_EAST,https://fl1.moveonjoy.com/BET_EAST/index.m3u8
+
+BET_HER,https://fl1.moveonjoy.com/BET_HER/index.m3u8
+BET_SOUL,https://fl1.moveonjoy.com/BET_SOUL/index.m3u8
+BET_Jams,https://fl1.moveonjoy.com/BET_Jams/index.m3u8
+BLOOMBERG,https://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
+BOOMERANG,https://fl1.moveonjoy.com/BOOMERANG/index.m3u8
+C-SPAN,https://fl1.moveonjoy.com/C-SPAN/index.m3u8
+CBS_SPORTS,https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+CBSEAST,https://fl1.moveonjoy.com/CBSEAST/index.m3u8
+CMT,https://fl1.moveonjoy.com/CMT/index.m3u8
+Comedy_Central,https://fl1.moveonjoy.com/Comedy_Central/index.m3u8
+COOKING,https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+DISCOVERY_FAMILY_CHANNEL,https://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+E_ENTERTAINMENT_TELEVISION,https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+FOOD_NETWORK,https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
+INVESTIGATION_DISCOVERY,https://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+ION_TV,https://fl1.moveonjoy.com/ION_TV/index.m3u8
+LIFETIME_MOVIE_NETWORK,https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+ME_TV,https://fl1.moveonjoy.com/ME_TV/index.m3u8
+MLB_NETWOR,https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
+MOTOR_TREND,https://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
+MSNBC,https://fl1.moveonjoy.com/MSNBC/index.m3u8
+NEWS_NATION,https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
+NFL_NETWORK,https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
+wwe,https://fl3.moveonjoy.com/WWE/index.m3u8
+movie sphere,https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/ts-eu-w1-n2/playlist/samsunguk-moviesphereuk-samsung-uk/playlist.m3u8
+
+
+
+🇯🇵
+
+日本,#genre# 
+NHK,https://nhk4.mov3.co/hls/nhk.m3u8
+NTV,https://ntv4.mov3.co/hls/ntv.m3u8
+fujitv4,https://fujitv4.mov3.co/hls/fujitv.m3u8
+neco,https://stream1.freetv.fun/neco-channel-1.m3u8
+
+
+
+
+
+🇰🇷韩国,#genre#
+ABN TV (720p),https://vod2.abn.co.kr/IPHONE/abn.m3u8
+Arirang Radio (720p),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+ BBS Buddhist Broadcasting (1080p),http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+CGNTV South Korea (1080p),https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
+CJ OnStyle (540p),https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+EWTN Africa Asia (720p),https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+EWTN Asia-Pacific (720p) [Not 24/7],https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+GCN24 Korean (720p),http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+GoodTV (1080p),http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+Gugbang TV (1080p) [Not 24/7],http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+Home & Shopping (720p),https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+KBS 1TV [Not 24/7],http://mytv.dothome.co.kr/ch/public/1.php
+KBS 2TV [Not 24/7],http://mytv.dothome.co.kr/ch/public/3.php
+KBS Drama (480p),http://mytv.dothome.co.kr/ch/catv/2.php
+KBS Life (480p),http://mytv.dothome.co.kr/ch/catv/5.php
+KBS LiveCam DokDo (540p),http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+KCTV 광주 CH05 (720p) [Not 24/7],http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+Korean Song Channel (720p),http://live.kytv.co.kr:8080/hls/stream.m3u8 挂
+Lotte OneTV (720p),https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
+MBC Andong (안동 MBC) (360p) [Not 24/7],http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+MBC Chuncheon (춘천 MBC) (480p) [Not 24/7],https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+MBC Jeju (제주 MBC) (352p) [Not 24/7],https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+MBC Mokpo (목포 MBC) (720p) [Not 24/7],http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+MBC Yeosu (여수 MBC) (1080p) [Not 24/7],https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+NHTV (720p),http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+SBS CJB (540p) [Not 24/7],http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+SBS JTV (406p) [Not 24/7],http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+SBS KNN (1080p) [Not 24/7],https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+Shopping NT (720p),https://live.shoppingntmall.com/live/10011.m3u8
+tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+tvchosun,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+TVE Internacional Europe-Asia [Geo-blocked],https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
+BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+EBSi,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+EBS+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+EBSe,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+tvN1,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
+tvN2,https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
+tvN3,https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?
+tvN5,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?tvN Movies
+KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?
+JTV,http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+C,http://112.175.51.214:1935/live/myStream/playlist.m3u8
+TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+TV1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+TV3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
+TV4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=644
+14,https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
+EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+韩国EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
+韩国EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u
+声优广播,http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+CJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+Arirang Radio,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+BTN,http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
+CPBC,http://onair1.cpbc.co.kr:1935/tv/smil:live.smil/playlist.m3u8
+EBS-KIDS,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
+GCN教会,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
+MBN,http://mytv.dothome.co.kr/ch/catv/54.php
+NewKID2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
+NewKID4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
+NewKID4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
+韩国音乐,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+韩剧,https://stream.ads.ottera.tv/playlist.m3u8?network_id=622 挂
+RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
+
+🇷🇺俄罗斯,#genre#
+Большая Азия,http://178.163.117.7:4022/udp/234.0.0.10:2000
+супер,http://178.163.117.7:4022/udp/234.0.0.100:2000
+ТНВ Планета,http://178.163.117.7:4022/udp/234.0.0.2:2000
+Калейдоскоп ТВ,http://178.163.117.7:4022/udp/234.0.0.1:2000
+Губерния,http://178.163.117.7:4022/udp/234.0.0.7:2000
+360 Подмосковье,http://178.163.117.7:4022/udp/234.0.0.8:2000
+ТНТ +4,http://178.163.117.7:4022/udp/234.0.0.9:2000
+Оружие,http://178.163.117.7:4022/udp/234.0.0.97:2000
+Юмор,http://178.163.117.7:4022/udp/234.0.0.101:2000
+Твой Дом,http://178.163.117.7:4022/udp/234.0.0.106:2000
+Galaxy,http://178.163.117.7:4022/udp/234.0.0.111:2000
+Тольятти 24,http://178.163.117.7:4022/udp/234.0.0.112:2000
+Ваш Успех,http://178.163.117.7:4022/udp/234.0.0.117:2000
+TB3,http://178.163.117.7:4022/udp/234.0.0.171:2000
+Russian Extreme,http://178.163.117.7:4022/udp/234.0.0.173:2000
+ENGLISH CLUB TV,http://178.163.117.7:4022/udp/234.0.0.174:2000
+viр-tv.org.uа,http://178.163.117.7:4022/udp/234.0.0.234:2000
+ТНТ4,http://178.163.117.7:4022/udp/234.0.0.181:2000
+FOX,http://178.163.117.7:4022/udp/234.0.0.184:2000
+СовСек,http://178.163.117.7:4022/udp/234.0.0.185:2000
+CKAT THT,http://178.163.117.7:4022/udp/234.0.0.186:2000
+Ностальгия,http://178.163.117.7:4022/udp/234.0.0.190:2000
+Домашний,http://178.163.117.7:4022/udp/234.0.0.191:2000
+ТВЦ,http://178.163.117.7:4022/udp/234.0.0.192:2000
+Союз,http://178.163.117.7:4022/udp/234.0.0.196:2000
+МИР,http://178.163.117.7:4022/udp/234.0.0.197:2000
+Канал Disney,http://178.163.117.7:4022/udp/234.0.0.198:2000
+Беларусь 24,http://178.163.117.7:4022/udp/234.0.0.199:2000
+Первый канал,http://178.163.117.7:4022/udp/234.0.0.200:2000
+Россия 1,http://178.163.117.7:4022/udp/234.0.0.201:2000
+Россия К,http://178.163.117.7:4022/udp/234.0.0.202:2000
+Карусель +0,http://178.163.117.7:4022/udp/234.0.0.203:2000
+Матч!,http://178.163.117.7:4022/udp/234.0.0.204:2000
+Пятый,http://178.163.117.7:4022/udp/234.0.0.205:2000
+НТВ,http://178.163.117.7:4022/udp/234.0.0.206:2000
+Мультимания,http://178.163.117.7:4022/udp/234.0.0.210:2000
+Бокс,http://178.163.117.7:4022/udp/234.0.0.211:2000
+Fashion,http://178.163.117.7:4022/udp/234.0.0.214:2000
+Спас,http://178.163.117.7:4022/udp/234.0.0.215:2000
+Zoo,http://178.163.117.7:4022/udp/234.0.0.216:2000
+Детский,http://178.163.117.7:4022/udp/234.0.0.217:2000
+Че,http://178.163.117.7:4022/udp/234.0.0.218:2000
+Усадьба,http://178.163.117.7:4022/udp/234.0.0.220:2000
+Здоровое ТВ,http://178.163.117.7:4022/udp/234.0.0.221:2000
+Драйф,http://178.163.117.7:4022/udp/234.0.0.245:2000
+Сарафан,http://178.163.117.7:4022/udp/234.0.0.246:2000
+24 Техно,http://178.163.117.7:4022/udp/234.0.0.247:2000
+Телекафе,http://178.163.117.7:4022/udp/234.0.0.249:2000
+ТРО,http://178.163.117.7:4022/udp/234.0.0.251:2000
+TiJi,http://178.163.117.7:4022/udp/234.0.0.252:2000
+Extreme Sport,http://178.163.117.7:4022/udp/234.0.0.150:2000
+JimJam,http://178.163.117.7:4022/udp/234.0.0.152:2000
+Nickelodeon,http://178.163.117.7:4022/udp/234.0.0.153:2000
+КХЛ,http://178.163.117.7:4022/udp/234.0.0.208:2000
+Время,http://178.163.117.7:4022/udp/234.0.0.225:2000
+Наука 2.0,http://178.163.117.7:4022/udp/234.0.0.226:2000
+Авто 24,http://178.163.117.7:4022/udp/234.0.0.227:2000
+Моя Планета,http://178.163.117.7:4022/udp/234.0.0.228:2000
+Ю,http://178.163.117.7:4022/udp/234.0.0.229:2000
+Охота и Рыбалка,http://178.163.117.7:4022/udp/234.0.0.230:2000
+24_Doc,http://178.163.117.7:4022/udp/234.0.0.232:2000
+Пятница!,http://178.163.117.7:4022/udp/234.0.0.235:2000
+Живи,http://178.163.117.7:4022/udp/234.0.0.236:2000
+Звезда,http://178.163.117.7:4022/udp/234.0.0.237:2000
+Открытый Мир,http://178.163.117.7:4022/udp/234.0.0.238:2000
+СТС,http://178.163.117.7:4022/udp/234.0.0.239:2000
+Рен ТВ,http://178.163.117.7:4022/udp/234.0.0.240:2000
+National Geographic,http://178.163.117.7:4022/udp/234.0.0.241:2000
+Мужской,http://178.163.117.7:4022/udp/234.0.0.242:2000
+RTG tv,http://178.163.117.7:4022/udp/234.0.0.243:2000
+2x2,http://178.163.117.7:4022/udp/234.0.0.244:2000
+Матч! Наш Спорт,http://178.163.117.7:4022/udp/234.0.0.95:2000
+МУЗ,http://178.163.117.7:4022/udp/234.0.0.96:2000
+ТНТ Music,http://178.163.117.7:4022/udp/234.0.0.231:2000
+MTV Dance,http://178.163.117.7:4022/udp/234.0.0.233:2000
+VH1 Classic,http://178.163.117.7:4022/udp/234.0.0.223:2000
+MTV Rocks,http://178.163.117.7:4022/udp/234.0.0.193:2000
+MTV Hits,http://178.163.117.7:4022/udp/234.0.0.194:2000
+Шансон,http://178.163.117.7:4022/udp/234.0.0.189:2000
+RUSONG TV,http://178.163.117.7:4022/udp/234.0.0.179:2000
+Bridge TV,http://178.163.117.7:4022/udp/234.0.0.180:2000
+Muzic 1,http://178.163.117.7:4022/udp/234.0.0.182:2000
+Europa Plus TV,http://178.163.117.7:4022/udp/234.0.0.183:2000
+Первый HD,http://178.163.117.7:4022/udp/234.0.0.172:2000
+Ginger HD,http://178.163.117.7:4022/udp/234.0.0.113:2000
+МИР HD,http://178.163.117.7:4022/udp/234.0.0.5:2000
+Матч! Игра HD,http://178.163.117.7:4022/udp/234.0.0.6:2000
+Fashion One HD,http://178.163.117.7:4022/udp/234.0.0.212:2000
+Наш Футбол HD,http://178.163.117.7:4022/udp/234.0.0.99:2000
+Еврокино,http://178.163.117.7:4022/udp/234.0.0.176:2000
+Amedia Hit,http://178.163.117.7:4022/udp/234.0.0.169:2000
+Любимое Кино,http://178.163.117.7:4022/udp/234.0.0.177:2000
+Русский Иллюзион,http://178.163.117.7:4022/udp/234.0.0.178:2000
+CTC Love,http://178.163.117.7:4022/udp/234.0.0.3:2000
+Феникс + Кино,http://178.163.117.7:4022/udp/234.0.0.98:2000
+Bollywood,http://178.163.117.7:4022/udp/234.0.0.195:2000
+Иллюзион +,http://178.163.117.7:4022/udp/234.0.0.175:2000
+viр-tv.org.uа,http://178.163.117.7:4022/udp/234.0.0.188:2000
+Кинокомедия,http://178.163.117.7:4022/udp/234.0.0.118:2000
+Киносерия,http://178.163.117.7:4022/udp/234.0.0.119:2000
+Amedia Premium,http://178.163.117.7:4022/udp/234.0.0.209:2000
+Мужское кино,http://178.163.117.7:4022/udp/234.0.0.213:2000
+Кино ТВ,http://178.163.117.7:4022/udp/234.0.0.154:2000
+Amedia 1,http://178.163.117.7:4022/udp/234.0.0.155:2000
+XXI,http://178.163.117.7:4022/udp/234.0.0.187:2000
+Русский Бестселлер,http://178.163.117.7:4022/udp/234.0.0.250:2000
+Киномикс,http://178.163.117.7:4022/udp/234.0.0.222:2000
+Русский Роман,http://178.163.117.7:4022/udp/234.0.0.224:2000
+Дом Кино,http://178.163.117.7:4022/udp/234.0.0.219:2000
+Россия 24,http://178.163.117.7:4022/udp/234.0.0.207:2000
+РБК,http://178.163.117.7:4022/udp/234.0.0.151:2000
+Eurunews,http://178.163.117.7:4022/udp/234.0.0.248:2000
+1000,http://cdntv.online/high/ynemik5cl9/1000.mpeg
+1033,http://cdntv.online/high/ynemik5cl9/1033.mpeg
+1037,http://cdntv.online/high/ynemik5cl9/1037.mpeg
+1047,http://cdntv.online/high/ynemik5cl9/1047.mpeg
+1049,http://cdntv.online/high/ynemik5cl9/1049.mpeg
+1050,http://cdntv.online/high/ynemik5cl9/1050.mpeg
+1071,http://cdntv.online/high/ynemik5cl9/1071.mpeg
+1073,http://cdntv.online/high/ynemik5cl9/1073.mpeg
+1106,http://cdntv.online/high/ynemik5cl9/1106.mpeg
+1110,http://cdntv.online/high/ynemik5cl9/1110.mpeg
+1112,http://cdntv.online/high/ynemik5cl9/1112.mpeg
+1113,http://cdntv.online/high/ynemik5cl9/1113.mpeg
+1114,http://cdntv.online/high/ynemik5cl9/1114.mpeg
+1146,http://cdntv.online/high/ynemik5cl9/1146.mpeg
+1157,http://cdntv.online/high/ynemik5cl9/1157.mpeg
+1164,http://cdntv.online/high/ynemik5cl9/1164.mpeg
+1167,http://cdntv.online/high/ynemik5cl9/1167.mpeg
+1216,http://cdntv.online/high/ynemik5cl9/1216.mpeg
+1217,http://cdntv.online/high/ynemik5cl9/1217.mpeg
+1236,http://cdntv.online/high/ynemik5cl9/1236.mpeg
+1238,http://cdntv.online/high/ynemik5cl9/1238.mpeg
+1251,http://cdntv.online/high/ynemik5cl9/1251.mpeg
+1276,http://cdntv.online/high/ynemik5cl9/1276.mpeg
+1294,http://cdntv.online/high/ynemik5cl9/1294.mpeg
+1300,http://cdntv.online/high/ynemik5cl9/1300.mpeg
+1301,http://cdntv.online/high/ynemik5cl9/1301.mpeg
+1302,http://cdntv.online/high/ynemik5cl9/1302.mpeg
+1303,http://cdntv.online/high/ynemik5cl9/1303.mpeg
+1323,http://cdntv.online/high/ynemik5cl9/1323.mpeg
+1331,http://cdntv.online/high/ynemik5cl9/1331.mpeg
+1358,http://cdntv.online/high/ynemik5cl9/1358.mpeg
+1397,http://cdntv.online/high/ynemik5cl9/1397.mpeg
+140,http://cdntv.online/high/ynemik5cl9/1847.mpeg
+141,http://cdntv.online/high/ynemik5cl9/1848.mpeg
+1410,http://cdntv.online/high/ynemik5cl9/1410.mpeg
+1416,http://cdntv.online/high/ynemik5cl9/1416.mpeg
+143,http://cdntv.online/high/ynemik5cl9/1850.mpeg
+1453,http://cdntv.online/high/ynemik5cl9/1453.mpeg
+1454,http://cdntv.online/high/ynemik5cl9/1454.mpeg
+146,http://cdntv.online/high/ynemik5cl9/1853.mpeg
+147,http://cdntv.online/high/ynemik5cl9/1854.mpeg
+1472,http://cdntv.online/high/ynemik5cl9/1472.mpeg
+1473,http://cdntv.online/high/ynemik5cl9/1473.mpeg
+1485,http://cdntv.online/high/ynemik5cl9/1485.mpeg
+1486,http://cdntv.online/high/ynemik5cl9/1486.mpeg
+1494,http://cdntv.online/high/ynemik5cl9/1494.mpeg
+1511,http://cdntv.online/high/ynemik5cl9/1511.mpeg
+1518,http://cdntv.online/high/ynemik5cl9/1518.mpeg
+1519音乐,http://cdntv.online/high/ynemik5cl9/1519.mpeg
+1524,http://cdntv.online/high/ynemik5cl9/1524.mpeg
+1537,http://cdntv.online/high/ynemik5cl9/1537.mpeg
+1538,http://cdntv.online/high/ynemik5cl9/1538.mpeg
+154,http://cdntv.online/high/ynemik5cl9/1861.mpeg
+1540,http://cdntv.online/high/ynemik5cl9/1540.mpeg
+1553,http://cdntv.online/high/ynemik5cl9/1553.mpeg
+1563,http://cdntv.online/high/ynemik5cl9/1563.mpeg
+1568,http://cdntv.online/high/ynemik5cl9/1568.mpeg
+160,http://cdntv.online/high/ynemik5cl9/1867.mpeg
+161,http://cdntv.online/high/ynemik5cl9/1868.mpeg
+162,http://cdntv.online/high/ynemik5cl9/1869.mpeg
+163,http://cdntv.online/high/ynemik5cl9/1870.mpeg
+1638,http://cdntv.online/high/ynemik5cl9/1638.mpeg
+167,http://cdntv.online/high/ynemik5cl9/1874.mpeg
+1671,http://cdntv.online/high/ynemik5cl9/1671.mpeg
+1683,http://cdntv.online/high/ynemik5cl9/1683.mpeg
+171,http://cdntv.online/high/ynemik5cl9/1878.mpeg
+173,http://cdntv.online/high/ynemik5cl9/1880.mpeg
+174,http://cdntv.online/high/ynemik5cl9/1881.mpeg
+175,http://cdntv.online/high/ynemik5cl9/1882.mpeg
+195,http://cdntv.online/high/ynemik5cl9/1902.mpeg
+199,http://cdntv.online/high/ynemik5cl9/1906.mpeg
+202,http://cdntv.online/high/ynemik5cl9/1909.mpeg
+203,http://cdntv.online/high/ynemik5cl9/1910.mpeg
+2039,http://cdntv.online/high/ynemik5cl9/2039.mpeg.m3u8
+2097,http://cdntv.online/high/ynemik5cl9/2097.mpeg.m3u8
+2101,http://cdntv.online/high/ynemik5cl9/2101.mpeg.m3u8
+2103,http://cdntv.online/high/ynemik5cl9/2103.mpeg.m3u8
+2107,http://cdntv.online/high/ynemik5cl9/2107.mpeg.m3u8
+2109,http://cdntv.online/high/ynemik5cl9/2109.mpeg.m3u8
+211,http://cdntv.online/high/ynemik5cl9/1918.mpeg
+2134,http://cdntv.online/high/ynemik5cl9/2134.mpeg.m3u8
+2135,http://cdntv.online/high/ynemik5cl9/2135.mpeg.m3u8
+2136,http://cdntv.online/high/ynemik5cl9/2136.mpeg.m3u8
+2137,http://cdntv.online/high/ynemik5cl9/2137.mpeg.m3u8
+2138,http://cdntv.online/high/ynemik5cl9/2138.mpeg.m3u8
+216,http://cdntv.online/high/ynemik5cl9/1923.mpeg
+233,http://cdntv.online/high/ynemik5cl9/1940.mpeg
+236,http://cdntv.online/high/ynemik5cl9/1943.mpeg
+34,http://cdntv.online/high/ynemik5cl9/1741.mpeg
+44,http://cdntv.online/high/ynemik5cl9/1751.mpeg
+53,http://cdntv.online/high/ynemik5cl9/1760.mpeg
+67,http://cdntv.online/high/ynemik5cl9/1774.mpeg
+80,http://cdntv.online/high/ynemik5cl9/1787.mpeg
+82,http://cdntv.online/high/ynemik5cl9/1789.mpeg
+86,http://cdntv.online/high/ynemik5cl9/1793.mpeg
+87,http://cdntv.online/high/ynemik5cl9/1794.mpeg
+DMAX72,http://cdntv.online/high/ynemik5cl9/1779.mpeg
+
+
+
+
+
+
+大片650,http://cdntv.online/high/ynemik5cl9/1650.mpeg
+电音666,http://cdntv.online/high/ynemik5cl9/1666.mpeg
+电影 2048,http://cdntv.online/high/ynemik5cl9/2048.mpeg.m3u8
+电影014,http://cdntv.online/high/ynemik5cl9/1014.mpeg
+电影025,http://cdntv.online/high/ynemik5cl9/1025.mpeg
+电影026,http://cdntv.online/high/ynemik5cl9/1026.mpeg
+电影028,http://cdntv.online/high/ynemik5cl9/1028.mpeg
+电影029,http://cdntv.online/high/ynemik5cl9/1029.mpeg
+电影030,http://cdntv.online/high/ynemik5cl9/1030.mpeg
+电影031,http://cdntv.online/high/ynemik5cl9/1031.mpeg
+电影032,http://cdntv.online/high/ynemik5cl9/1032.mpeg
+电影034,http://cdntv.online/high/ynemik5cl9/1034.mpeg
+电影035,http://cdntv.online/high/ynemik5cl9/1035.mpeg
+电影036,http://cdntv.online/high/ynemik5cl9/1036.mpeg
+电影061,http://cdntv.online/high/ynemik5cl9/1061.mpeg
+电影069,http://cdntv.online/high/ynemik5cl9/1069.mpeg
+电影076,http://cdntv.online/high/ynemik5cl9/1076.mpeg
+电078,http://cdntv.online/high/ynemik5cl9/1078.mpeg
+电影098,http://cdntv.online/high/ynemik5cl9/1098.mpeg
+电影099,http://cdntv.online/high/ynemik5cl9/1099.mpeg
+电影00,http://cdntv.online/high/ynemik5cl9/1100.mpeg
+电影01,http://cdntv.online/high/ynemik5cl9/1101.mpeg
+电影5,http://cdntv.online/high/ynemik5cl9/1115.mpeg
+电影49,http://cdntv.online/high/ynemik5cl9/1149.mpeg
+电影59,http://cdntv.online/high/ynemik5cl9/1159.mpeg
+电影60,http://cdntv.online/high/ynemik5cl9/1160.mpeg
+电影61,http://cdntv.online/high/ynemik5cl9/1161.mpeg
+电62,http://cdntv.online/high/ynemik5cl9/1162.mpeg
+电影69,http://cdntv.online/high/ynemik5cl9/1169.mpeg
+电影70,http://cdntv.online/high/ynemik5cl9/1170.mpeg
+电影72,http://cdntv.online/high/ynemik5cl9/1172.mpeg
+电影225,http://cdntv.online/high/ynemik5cl9/1225.mpeg
+电影226,http://cdntv.online/high/ynemik5cl9/1226.mpeg
+电影255,http://cdntv.online/high/ynemik5cl9/1255.mpeg
+电影257,http://cdntv.online/high/ynemik5cl9/1257.mpeg
+电影258,http://cdntv.online/high/ynemik5cl9/1258.mpeg
+电影259,http://cdntv.online/high/ynemik5cl9/1259.mpeg
+电影260,http://cdntv.online/high/ynemik5cl9/1260.mpeg
+电影261,http://cdntv.online/high/ynemik5cl9/1261.mpeg
+电影262,http://cdntv.online/high/ynemik5cl9/1262.mpeg
+电影263,http://cdntv.online/high/ynemik5cl9/1263.mpeg
+电影264,http://cdntv.online/high/ynemik5cl9/1264.mpeg
+电影265,http://cdntv.online/high/ynemik5cl9/1265.mpeg
+电影266,http://cdntv.online/high/ynemik5cl9/1266.mpeg
+电影271,http://cdntv.online/high/ynemik5cl9/1271.mpeg
+电影295,http://cdntv.online/high/ynemik5cl9/1295.mpeg
+电影296,http://cdntv.online/high/ynemik5cl9/1296.mpeg
+电影297,http://cdntv.online/high/ynemik5cl9/1297.mpeg
+电影339,http://cdntv.online/high/ynemik5cl9/1339.mpeg
+电影347,http://cdntv.online/high/ynemik5cl9/1347.mpeg
+电影349,http://cdntv.online/high/ynemik5cl9/1349.mpeg
+电影350,http://cdntv.online/high/ynemik5cl9/1350.mpeg
+电影351,http://cdntv.online/high/ynemik5cl9/1351.mpeg
+电影352,http://cdntv.online/high/ynemik5cl9/1352.mpeg
+电影384,http://cdntv.online/high/ynemik5cl9/1384.mpeg
+电影385,http://cdntv.online/high/ynemik5cl9/1385.mpeg
+电影386,http://cdntv.online/high/ynemik5cl9/1386.mpeg
+电影387,http://cdntv.online/high/ynemik5cl9/1387.mpeg
+电388,http://cdntv.online/high/ynemik5cl9/1388.mpeg
+电影389,http://cdntv.online/high/ynemik5cl9/1389.mpeg
+电影390,http://cdntv.online/high/ynemik5cl9/1390.mpeg
+电影391,http://cdntv.online/high/ynemik5cl9/1391.mpeg
+电影392,http://cdntv.online/high/ynemik5cl9/1392.mpeg
+电影393,http://cdntv.online/high/ynemik5cl9/1393.mpeg
+电影394,http://cdntv.online/high/ynemik5cl9/1394.mpeg
+电影396,http://cdntv.online/high/ynemik5cl9/1396.mpeg
+电影413,http://cdntv.online/high/ynemik5cl9/1413.mpeg
+电影415,http://cdntv.online/high/ynemik5cl9/1415.mpeg
+电影444,http://cdntv.online/high/ynemik5cl9/1444.mpeg
+电影490,http://cdntv.online/high/ynemik5cl9/1490.mpeg
+电影491,http://cdntv.online/high/ynemik5cl9/1491.mpeg
+电影492,http://cdntv.online/high/ynemik5cl9/1492.mpeg
+电影493,http://cdntv.online/high/ynemik5cl9/1493.mpeg
+电影507,http://cdntv.online/high/ynemik5cl9/1507.mpeg
+电影512,http://cdntv.online/high/ynemik5cl9/1512.mpeg
+电影513,http://cdntv.online/high/ynemik5cl9/1513.mpeg
+电影515,http://cdntv.online/high/ynemik5cl9/1515.mpeg
+电影517,http://cdntv.online/high/ynemik5cl9/1517.mpeg
+电影520,http://cdntv.online/high/ynemik5cl9/1520.mpeg
+电影521,http://cdntv.online/high/ynemik5cl9/1521.mpeg
+电影523,http://cdntv.online/high/ynemik5cl9/1523.mpeg
+电影526,http://cdntv.online/high/ynemik5cl9/1526.mpeg
+电影53,http://cdntv.online/high/ynemik5cl9/1860.mpeg
+电影530,http://cdntv.online/high/ynemik5cl9/1530.mpeg
+电影531,http://cdntv.online/high/ynemik5cl9/1531.mpeg
+电影534,http://cdntv.online/high/ynemik5cl9/1534.mpeg
+电影541,http://cdntv.online/high/ynemik5cl9/1541.mpeg
+电影554,http://cdntv.online/high/ynemik5cl9/1554.mpeg
+电影558,http://cdntv.online/high/ynemik5cl9/1558.mpeg
+电影559,http://cdntv.online/high/ynemik5cl9/1559.mpeg
+电影560,http://cdntv.online/high/ynemik5cl9/1560.mpeg
+电影561,http://cdntv.online/high/ynemik5cl9/1561.mpeg
+电影562,http://cdntv.online/high/ynemik5cl9/1562.mpeg
+电影564,http://cdntv.online/high/ynemik5cl9/1564.mpeg
+电影565,http://cdntv.online/high/ynemik5cl9/1565.mpeg
+电影567,http://cdntv.online/high/ynemik5cl9/1567.mpeg
+电影570,http://cdntv.online/high/ynemik5cl9/1570.mpeg
+电影571,http://cdntv.online/high/ynemik5cl9/1571.mpeg
+电影572,http://cdntv.online/high/ynemik5cl9/1572.mpeg
+电影573,http://cdntv.online/high/ynemik5cl9/1573.mpeg
+电影574,http://cdntv.online/high/ynemik5cl9/1574.mpeg
+电影575,http://cdntv.online/high/ynemik5cl9/1575.mpeg
+电影641,http://cdntv.online/high/ynemik5cl9/1641.mpeg
+电影643,http://cdntv.online/high/ynemik5cl9/1643.mpeg
+电影644,http://cdntv.online/high/ynemik5cl9/1644.mpeg
+电影648,http://cdntv.online/high/ynemik5cl9/1648.mpeg
+电影663,http://cdntv.online/high/ynemik5cl9/1663.mpeg
+电影665,http://cdntv.online/high/ynemik5cl9/1665.mpeg
+电影669,http://cdntv.online/high/ynemik5cl9/1669.mpeg
+电672,http://cdntv.online/high/ynemik5cl9/1672.mpeg
+电影675,http://cdntv.online/high/ynemik5cl9/1675.mpeg
+电影676,http://cdntv.online/high/ynemik5cl9/1676.mpeg
+电影681,http://cdntv.online/high/ynemik5cl9/1681.mpeg
+电影682,http://cdntv.online/high/ynemik5cl9/1682.mpeg
+电影72,http://cdntv.online/high/ynemik5cl9/1879.mpeg
+电影728,http://cdntv.online/high/ynemik5cl9/1728.mpeg
+电影91,http://cdntv.online/high/ynemik5cl9/1898.mpeg
+电影92,http://cdntv.online/high/ynemik5cl9/1899.mpeg
+电影94,http://cdntv.online/high/ynemik5cl9/1901.mpeg
+电影96,http://cdntv.online/high/ynemik5cl9/1903.mpeg
+电影2005,http://cdntv.online/high/ynemik5cl9/2005.mpeg.m3u8
+电影2006,http://cdntv.online/high/ynemik5cl9/2006.mpeg.m3u8
+电影2009,http://cdntv.online/high/ynemik5cl9/2009.mpeg.m3u8
+电影201,http://cdntv.online/high/ynemik5cl9/1908.mpeg
+电影2010,http://cdntv.online/high/ynemik5cl9/2010.mpeg.m3u8
+电影2032,http://cdntv.online/high/ynemik5cl9/2032.mpeg.m3u8
+电影2034,http://cdntv.online/high/ynemik5cl9/2034.mpeg.m3u8
+电影2035,http://cdntv.online/high/ynemik5cl9/2035.mpeg.m3u8
+电影2036,http://cdntv.online/high/ynemik5cl9/2036.mpeg.m3u8
+电影2037,http://cdntv.online/high/ynemik5cl9/2037.mpeg.m3u8
+电影2038,http://cdntv.online/high/ynemik5cl9/2038.mpeg.m3u8
+电影204,http://cdntv.online/high/ynemik5cl9/1911.mpeg
+电影2040,http://cdntv.online/high/ynemik5cl9/2040.mpeg.m3u8
+电影2041,http://cdntv.online/high/ynemik5cl9/2041.mpeg.m3u8
+电影2044,http://cdntv.online/high/ynemik5cl9/2044.mpeg.m3u8
+电影2045,http://cdntv.online/high/ynemik5cl9/2045.mpeg.m3u8
+电影2046,http://cdntv.online/high/ynemik5cl9/2046.mpeg.m3u8
+电影2047,http://cdntv.online/high/ynemik5cl9/2047.mpeg.m3u8
+电影2049,http://cdntv.online/high/ynemik5cl9/2049.mpeg.m3u8
+电影205,http://cdntv.online/high/ynemik5cl9/1912.mpeg
+电影2050,http://cdntv.online/high/ynemik5cl9/2050.mpeg.m3u8
+电影2051,http://cdntv.online/high/ynemik5cl9/2051.mpeg.m3u8
+电影2052,http://cdntv.online/high/ynemik5cl9/2052.mpeg.m3u8
+电影2053,http://cdntv.online/high/ynemik5cl9/2053.mpeg.m3u8
+电影2054,http://cdntv.online/high/ynemik5cl9/2054.mpeg.m3u8
+电影2066,http://cdntv.online/high/ynemik5cl9/2066.mpeg.m3u8
+电影2067,http://cdntv.online/high/ynemik5cl9/2067.mpeg.m3u8
+电影2068,http://cdntv.online/high/ynemik5cl9/2068.mpeg.m3u8
+电影207,http://cdntv.online/high/ynemik5cl9/1914.mpeg
+电影2070,http://cdntv.online/high/ynemik5cl9/2070.mpeg.m3u8
+电影2104,http://cdntv.online/high/ynemik5cl9/2104.mpeg.m3u8
+电影2108,http://cdntv.online/high/ynemik5cl9/2108.mpeg.m3u8
+电影212,http://cdntv.online/high/ynemik5cl9/1919.mpeg
+电影213,http://cdntv.online/high/ynemik5cl9/1920.mpeg
+电影2130,http://cdntv.online/high/ynemik5cl9/2130.mpeg.m3u8
+电影2133,http://cdntv.online/high/ynemik5cl9/2133.mpeg.m3u8
+电影2139,http://cdntv.online/high/ynemik5cl9/2139.mpeg.m3u8
+电影234,http://cdntv.online/high/ynemik5cl9/1941.mpeg
+电影238,http://cdntv.online/high/ynemik5cl9/1945.mpeg
+电影278,http://cdntv.online/high/ynemik5cl9/1985.mpeg
+电影279,http://cdntv.online/high/ynemik5cl9/1986.mpeg
+电影280,http://cdntv.online/high/ynemik5cl9/1987.mpeg
+电影281,http://cdntv.online/high/ynemik5cl9/1988.mpeg
+电影282,http://cdntv.online/high/ynemik5cl9/1989.mpeg
+电影283,http://cdntv.online/high/ynemik5cl9/1990.mpeg
+电影286,http://cdntv.online/high/ynemik5cl9/1993.mpeg
+电影287,http://cdntv.online/high/ynemik5cl9/1994.mpeg
+电影288,http://cdntv.online/high/ynemik5cl9/1995.mpeg
+电影289,http://cdntv.online/high/ynemik5cl9/1996.mpeg
+电影290,http://cdntv.online/high/ynemik5cl9/1997.mpeg
+电影32,http://cdntv.online/high/ynemik5cl9/1739.mpeg
+电影33,http://cdntv.online/high/ynemik5cl9/1740.mpeg
+电影42,http://cdntv.online/high/ynemik5cl9/1749.mpeg
+电影75,http://cdntv.online/high/ynemik5cl9/1782.mpeg
+电影76,http://cdntv.online/high/ynemik5cl9/1783.mpeg
+电影77,http://cdntv.online/high/ynemik5cl9/1784.mpeg
+电影81,http://cdntv.online/high/ynemik5cl9/1788.mpeg
+
+动画68,http://cdntv.online/high/ynemik5cl9/1168.mpeg
+
+
+
+
+
+
+
+动画1250,http://cdntv.online/high/ynemik5cl9/1250.mpeg
+动画1252,http://cdntv.online/high/ynemik5cl9/1252.mpeg
+动画1253,http://cdntv.online/high/ynemik5cl9/1253.mpeg
+动画1254,http://cdntv.online/high/ynemik5cl9/1254.mpeg
+动画1267,http://cdntv.online/high/ynemik5cl9/1267.mpeg
+动画1274,http://cdntv.online/high/ynemik5cl9/1274.mpeg
+动画1348,http://cdntv.online/high/ynemik5cl9/1348.mpeg
+动画1395,http://cdntv.online/high/ynemik5cl9/1395.mpeg
+动画1451,http://cdntv.online/high/ynemik5cl9/1451.mpeg
+动画1522,http://cdntv.online/high/ynemik5cl9/1522.mpeg
+动画1529,http://cdntv.online/high/ynemik5cl9/1529.mpeg
+动画1532,http://cdntv.online/high/ynemik5cl9/1532.mpeg
+动画1533,http://cdntv.online/high/ynemik5cl9/1533.mpeg
+动画1545,http://cdntv.online/high/ynemik5cl9/1545.mpeg
+动画1552,http://cdntv.online/high/ynemik5cl9/1552.mpeg
+动画1576,http://cdntv.online/high/ynemik5cl9/1576.mpeg
+动画1577,http://cdntv.online/high/ynemik5cl9/1577.mpeg
+动画1645,http://cdntv.online/high/ynemik5cl9/1645.mpeg
+动画197,http://cdntv.online/high/ynemik5cl9/1904.mpeg
+动画007,http://cdntv.online/high/ynemik5cl9/2007.mpeg.m3u8
+动画008,http://cdntv.online/high/ynemik5cl9/2008.mpeg.m3u8
+动画033,http://cdntv.online/high/ynemik5cl9/2033.mpeg.m3u8
+动画042,http://cdntv.online/high/ynemik5cl9/2042.mpeg.m3u8
+动画043,http://cdntv.online/high/ynemik5cl9/2043.mpeg.m3u8
+动画08,http://cdntv.online/high/ynemik5cl9/1915.mpeg
+动画098,http://cdntv.online/high/ynemik5cl9/2098.mpeg.m3u8
+动画099,http://cdntv.online/high/ynemik5cl9/2099.mpeg.m3u8
+动画129,http://cdntv.online/high/ynemik5cl9/2129.mpeg.m3u8
+动画37,http://cdntv.online/high/ynemik5cl9/1944.mpeg
+动画84,http://cdntv.online/high/ynemik5cl9/1991.mpeg
+动画74,http://cdntv.online/high/ynemik5cl9/1781.mpeg
+
+
+
+
+
+搞笑1332,http://cdntv.online/high/ynemik5cl9/1332.mpeg
+搞笑1398,http://cdntv.online/high/ynemik5cl9/1398.mpeg
+挂1679,http://cdntv.online/high/ynemik5cl9/1679.mpeg
+韩剧1027,http://cdntv.online/high/ynemik5cl9/1027.mpeg
+韩剧285,http://cdntv.online/high/ynemik5cl9/1992.mpeg
+韩乐1656,http://cdntv.online/high/ynemik5cl9/1656.mpeg
+红牛1470,http://cdntv.online/high/ynemik5cl9/1470.mpeg
+卡1525,http://cdntv.online/high/ynemik5cl9/1525.mpeg
+卡通1223,http://cdntv.online/high/ynemik5cl9/1223.mpeg
+内地1649,http://cdntv.online/high/ynemik5cl9/1649.mpeg
+拳击1516,http://cdntv.online/high/ynemik5cl9/1516.mpeg
+拳击1566,http://cdntv.online/high/ynemik5cl9/1566.mpeg
+拳击1680,http://cdntv.online/high/ynemik5cl9/1680.mpeg
+少儿1329,http://cdntv.online/high/ynemik5cl9/1329.mpeg
+少儿142,http://cdntv.online/high/ynemik5cl9/1849.mpeg
+少儿1539,http://cdntv.online/high/ynemik5cl9/1539.mpeg
+少儿2132,http://cdntv.online/high/ynemik5cl9/2132.mpeg.m3u8
+世界1646,http://cdntv.online/high/ynemik5cl9/1646.mpeg
+体育1001,http://cdntv.online/high/ynemik5cl9/1001.mpeg
+体育1021,http://cdntv.online/high/ynemik5cl9/1021.mpeg
+体育1022,http://cdntv.online/high/ynemik5cl9/1022.mpeg
+体育1065,http://cdntv.online/high/ynemik5cl9/1065.mpeg
+体育1072,http://cdntv.online/high/ynemik5cl9/1072.mpeg
+体育1143,http://cdntv.online/high/ynemik5cl9/1143.mpeg
+体育1153,http://cdntv.online/high/ynemik5cl9/1153.mpeg
+体育1154,http://cdntv.online/high/ynemik5cl9/1154.mpeg
+体育1155,http://cdntv.online/high/ynemik5cl9/1155.mpeg
+体育1156,http://cdntv.online/high/ynemik5cl9/1156.mpeg
+体育118,http://cdntv.online/high/ynemik5cl9/1825.mpeg
+体育1187,http://cdntv.online/high/ynemik5cl9/1187.mpeg
+体育149,http://cdntv.online/high/ynemik5cl9/1856.mpeg
+体育1496,http://cdntv.online/high/ynemik5cl9/1496.mpeg
+体育1497,http://cdntv.online/high/ynemik5cl9/1497.mpeg
+体育1498,http://cdntv.online/high/ynemik5cl9/1498.mpeg 
+体育177,http://cdntv.online/high/ynemik5cl9/1884.mpeg
+体育2105,http://cdntv.online/high/ynemik5cl9/2105.mpeg.m3u8
+体育2106,http://cdntv.online/high/ynemik5cl9/2106.mpeg.m3u8
+体育2131,http://cdntv.online/high/ynemik5cl9/2131.mpeg.m3u8
+体育214,http://cdntv.online/high/ynemik5cl9/1921.mpeg
+体育215,http://cdntv.online/high/ynemik5cl9/1922.mpeg
+体育29,http://cdntv.online/high/ynemik5cl9/1736.mpeg
+新闻1003,http://cdntv.online/high/ynemik5cl9/1003.mpeg
+新闻1004,http://cdntv.online/high/ynemik5cl9/1004.mpeg
+新闻1005,http://cdntv.online/high/ynemik5cl9/1005.mpeg
+新闻1017,http://cdntv.online/high/ynemik5cl9/1017.mpeg
+新闻1018,http://cdntv.online/high/ynemik5cl9/1018.mpeg
+新闻1054,http://cdntv.online/high/ynemik5cl9/1054.mpeg
+新闻1062,http://cdntv.online/high/ynemik5cl9/1062.mpeg
+新闻1068,http://cdntv.online/high/ynemik5cl9/1068.mpeg
+新闻1108,http://cdntv.online/high/ynemik5cl9/1108.mpeg
+新闻1109,http://cdntv.online/high/ynemik5cl9/1109.mpeg
+新闻1111,http://cdntv.online/high/ynemik5cl9/1111.mpeg
+新闻1148,http://cdntv.online/high/ynemik5cl9/1148.mpeg
+新闻1185,http://cdntv.online/high/ynemik5cl9/1185.mpeg
+新闻119,http://cdntv.online/high/ynemik5cl9/1826.mpeg
+新闻1191,http://cdntv.online/high/ynemik5cl9/1191.mpeg
+新闻1198,http://cdntv.online/high/ynemik5cl9/1198.mpeg
+新闻1210,http://cdntv.online/high/ynemik5cl9/1210.mpeg
+新闻1213,http://cdntv.online/high/ynemik5cl9/1213.mpeg
+新闻1214,http://cdntv.online/high/ynemik5cl9/1214.mpeg
+新闻1227,http://cdntv.online/high/ynemik5cl9/1227.mpeg
+新闻1248,http://cdntv.online/high/ynemik5cl9/1248.mpeg
+新闻1249,http://cdntv.online/high/ynemik5cl9/1249.mpeg
+新闻1272,http://cdntv.online/high/ynemik5cl9/1272.mpeg
+新闻1280,http://cdntv.online/high/ynemik5cl9/1280.mpeg
+新闻1283,http://cdntv.online/high/ynemik5cl9/1283.mpeg
+新闻1325,http://cdntv.online/high/ynemik5cl9/1325.mpeg
+新闻1354,http://cdntv.online/high/ynemik5cl9/1354.mpeg
+新闻1355,http://cdntv.online/high/ynemik5cl9/1355.mpeg
+新闻1356,http://cdntv.online/high/ynemik5cl9/1356.mpeg
+新闻1409,http://cdntv.online/high/ynemik5cl9/1409.mpeg
+新闻1412,http://cdntv.online/high/ynemik5cl9/1412.mpeg
+新闻1449,http://cdntv.online/high/ynemik5cl9/1449.mpeg
+新闻1450,http://cdntv.online/high/ynemik5cl9/1450.mpeg
+新闻1506,http://cdntv.online/high/ynemik5cl9/1506.mpeg
+新闻1631,http://cdntv.online/high/ynemik5cl9/1631.mpeg
+新闻1639,http://cdntv.online/high/ynemik5cl9/1639.mpeg
+新闻166,http://cdntv.online/high/ynemik5cl9/1873.mpeg
+新闻1667,http://cdntv.online/high/ynemik5cl9/1667.mpeg
+新闻1678,http://cdntv.online/high/ynemik5cl9/1678.mpeg
+新闻193,http://cdntv.online/high/ynemik5cl9/1900.mpeg
+新闻2102,http://cdntv.online/high/ynemik5cl9/2102.mpeg.m3u8
+新闻235,http://cdntv.online/high/ynemik5cl9/1942.mpeg
+新闻239,http://cdntv.online/high/ynemik5cl9/1946.mpeg
+新闻68,http://cdntv.online/high/ynemik5cl9/1775.mpeg
+新闻69,http://cdntv.online/high/ynemik5cl9/1776.mpeg
+新闻70,http://cdntv.online/high/ynemik5cl9/1777.mpeg
+新闻71,http://cdntv.online/high/ynemik5cl9/1778.mpeg
+新闻78,http://cdntv.online/high/ynemik5cl9/1785.mpeg
+新闻79,http://cdntv.online/high/ynemik5cl9/1786.mpeg
+摇滚1414,http://cdntv.online/high/ynemik5cl9/1414.mpeg
+艺术200,http://cdntv.online/high/ynemik5cl9/1907.mpeg
+音乐1152,http://cdntv.online/high/ynemik5cl9/1152.mpeg
+音乐1180,http://cdntv.online/high/ynemik5cl9/1180.mpeg
+音乐1190,http://cdntv.online/high/ynemik5cl9/1190.mpeg
+音乐1205,http://cdntv.online/high/ynemik5cl9/1205.mpeg
+音乐1232,http://cdntv.online/high/ynemik5cl9/1232.mpeg
+音乐1256,http://cdntv.online/high/ynemik5cl9/1256.mpeg
+音乐1277,http://cdntv.online/high/ynemik5cl9/1277.mpeg
+音乐1282,http://cdntv.online/high/ynemik5cl9/1282.mpeg
+音乐1399,http://cdntv.online/high/ynemik5cl9/1399.mpeg
+音乐1400,http://cdntv.online/high/ynemik5cl9/1400.mpeg
+音乐144,http://cdntv.online/high/ynemik5cl9/1851.mpeg
+音乐1448,http://cdntv.online/high/ynemik5cl9/1448.mpeg
+音乐145,http://cdntv.online/high/ynemik5cl9/1852.mpeg
+音乐1514,http://cdntv.online/high/ynemik5cl9/1514.mpeg
+音乐152,http://cdntv.online/high/ynemik5cl9/1859.mpeg
+音乐1527,http://cdntv.online/high/ynemik5cl9/1527.mpeg
+音乐1542,http://cdntv.online/high/ynemik5cl9/1542.mpeg
+音乐1543,http://cdntv.online/high/ynemik5cl9/1543.mpeg
+音乐155,http://cdntv.online/high/ynemik5cl9/1862.mpeg
+音乐1551,http://cdntv.online/high/ynemik5cl9/1551.mpeg
+音乐157,http://cdntv.online/high/ynemik5cl9/1864.mpeg
+音乐158,http://cdntv.online/high/ynemik5cl9/1865.mpeg
+音乐1625,http://cdntv.online/high/ynemik5cl9/1625.mpeg
+音乐1629,http://cdntv.online/high/ynemik5cl9/1629.mpeg
+音乐1632,http://cdntv.online/high/ynemik5cl9/1632.mpeg
+音乐1634,http://cdntv.online/high/ynemik5cl9/1634.mpeg
+音乐1636,http://cdntv.online/high/ynemik5cl9/1636.mpeg
+音乐1637,http://cdntv.online/high/ynemik5cl9/1637.mpeg
+音乐164,http://cdntv.online/high/ynemik5cl9/1871.mpeg
+音乐1647,http://cdntv.online/high/ynemik5cl9/1647.mpeg
+音乐1651,http://cdntv.online/high/ynemik5cl9/1651.mpeg
+音乐1652,http://cdntv.online/high/ynemik5cl9/1652.mpeg
+音乐1653,http://cdntv.online/high/ynemik5cl9/1653.mpeg
+音乐1655,http://cdntv.online/high/ynemik5cl9/1655.mpeg
+音乐1658,http://cdntv.online/high/ynemik5cl9/1658.mpeg
+音乐1664,http://cdntv.online/high/ynemik5cl9/1664.mpeg
+音乐1668,http://cdntv.online/high/ynemik5cl9/1668.mpeg
+音乐170,http://cdntv.online/high/ynemik5cl9/1877.mpeg
+音乐198,http://cdntv.online/high/ynemik5cl9/1905.mpeg
+音乐2055,http://cdntv.online/high/ynemik5cl9/2055.mpeg.m3u8
+音乐2056,http://cdntv.online/high/ynemik5cl9/2056.mpeg.m3u8
+音乐2057,http://cdntv.online/high/ynemik5cl9/2057.mpeg.m3u8
+音乐2058,http://cdntv.online/high/ynemik5cl9/2058.mpeg.m3u8
+音乐2059,http://cdntv.online/high/ynemik5cl9/2059.mpeg.m3u8
+音乐2060,http://cdntv.online/high/ynemik5cl9/2060.mpeg.m3u8
+音乐2061,http://cdntv.online/high/ynemik5cl9/2061.mpeg.m3u8
+音乐2062,http://cdntv.online/high/ynemik5cl9/2062.mpeg.m3u8
+音乐2063,http://cdntv.online/high/ynemik5cl9/2063.mpeg.m3u8
+音乐2064,http://cdntv.online/high/ynemik5cl9/2064.mpeg.m3u8
+音乐2065,http://cdntv.online/high/ynemik5cl9/2065.mpeg.m3u8
+音乐210,http://cdntv.online/high/ynemik5cl9/1917.mpeg
+音乐22,http://cdntv.online/high/ynemik5cl9/1729.mpeg
+音乐23,http://cdntv.online/high/ynemik5cl9/1730.mpeg
+音乐254,http://cdntv.online/high/ynemik5cl9/1961.mpeg
+音乐54,http://cdntv.online/high/ynemik5cl9/1761.mpeg
+音乐83,http://cdntv.online/high/ynemik5cl9/1790.mpeg
+音乐85,http://cdntv.online/high/ynemik5cl9/1792.mpeg
+音乐88,http://cdntv.online/high/ynemik5cl9/1795.mpeg
+音乐89,http://cdntv.online/high/ynemik5cl9/1796.mpeg
+音乐90,http://cdntv.online/high/ynemik5cl9/1797.mpeg
+音乐91,http://cdntv.online/high/ynemik5cl9/1798.mpeg
+音乐92,http://cdntv.online/high/ynemik5cl9/1799.mpeg
+音乐93,http://cdntv.online/high/ynemik5cl9/1800.mpeg
+音综209,http://cdntv.online/high/ynemik5cl9/1916.mpeg
+游戏1150,http://cdntv.online/high/ynemik5cl9/1150.mpeg
+娱乐1015,http://cdntv.online/high/ynemik5cl9/1015.mpeg
+自然1228,http://cdntv.online/high/ynemik5cl9/1228.mpeg
+自然1528,http://cdntv.online/high/ynemik5cl9/1528.mpeg
+自然1569,http://cdntv.online/high/ynemik5cl9/1569.mpeg
+自然1642,http://cdntv.online/high/ynemik5cl9/1642.mpeg
+自然58,http://cdntv.online/high/ynemik5cl9/1765.mpeg
+综艺1211,http://cdntv.online/high/ynemik5cl9/1211.mpeg
+综艺1246,http://cdntv.online/high/ynemik5cl9/1246.mpeg
+综艺1278,http://cdntv.online/high/ynemik5cl9/1278.mpeg
+综艺165,http://cdntv.online/high/ynemik5cl9/1872.mpeg
+综艺1657,http://cdntv.online/high/ynemik5cl9/1657.mpeg
+综艺31,http://cdntv.online/high/ynemik5cl9/1738.mpeg
+综艺46,http://cdntv.online/high/ynemik5cl9/1753.mpeg
+
+
+
+
+
+国外频道,#genre#
+CNN,https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
+BBC半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
+朝鲜KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+韩国教育台,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+韩国中央台,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+韩国-BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+韩国-BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+韩国-EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+韩国|Ebs Kids,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+韩国|EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+韩国|EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+韩国|EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+韩国-EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+韩国-EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+韩国|EBSe,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+韩国-KCTV_HV2,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+韩国-MBC综合频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+伊朗-PBCTapeshTV,http://iptv.tapesh.tv/tapesh/playlist.m3u8
+韩国|BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+韩国|EBSi,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+韩国|EBS+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+韩国|KBC|SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+韩国|KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_tvbox6.com.m3u8
+韩国|KCTV 1,http://119.77.96.184:1935/chn21/chn21/chunklist_tvbox6.com.m3u8
+韩国|CJB|SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+韩国|MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
+韩国|KBS LIVE,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+韩国|Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+印度NDTV,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+
+
+
+
+
